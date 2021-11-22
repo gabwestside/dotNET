@@ -1,2 +1,2 @@
-# .NET_and_CSharp
+# .NET e CSharp
 a dotnet and csharp pratices repository
