@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\.NET\\LessonsCsharp\\Exercicio1\\Exercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\Exercicio1\\Exercicio1.csproj",
       "projectName": "Exercicio1",
-      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\.NET\\LessonsCsharp\\Exercicio1\\Exercicio1.csproj",
+      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\Exercicio1\\Exercicio1.csproj",
       "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\.NET\\LessonsCsharp\\Exercicio1\\obj\\",
+      "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\Exercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\.NET\\LessonsCsharp\\LessonsCsharp\\LessonsCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\LessonsCsharp\\LessonsCsharp.csproj",
       "projectName": "LessonsCsharp",
-      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\.NET\\LessonsCsharp\\LessonsCsharp\\LessonsCsharp.csproj",
+      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\LessonsCsharp\\LessonsCsharp.csproj",
       "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\.NET\\LessonsCsharp\\LessonsCsharp\\obj\\",
+      "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\LessonsCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",

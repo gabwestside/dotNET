@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Globalization;
 
-namespace LessonsCsharp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace LessonsCsharp {
+    class Program {
+        static void Main(string[] args) {
             char genero = 'F';
             double saldo = 10.34530281;
             int idade = 31;

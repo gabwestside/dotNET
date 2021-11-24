@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace Exercicio1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace Exercicio1 {
+    class Program {
+        static void Main(string[] args) {
             // * Exemplo de casting explicito:
             double arara = 12.3;
             float banana;
@@ -19,7 +16,7 @@ namespace Exercicio1
             int n1 = 3 + 4 * 2;
             int n2 = (3 + 4) * 2;
             int n3 = 17 % 3;
-            double n4 = (double) 10 / 8;
+            double n4 = (double)10 / 8;
 
             // Console.WriteLine(n1 + "\n" + n2 + "\n" + n3 + "\n" + n4);
 
@@ -61,6 +58,6 @@ namespace Exercicio1
             int numero = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Seu numero é " + numero);
-         }
+        }
     }
 }

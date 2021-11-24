@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LessonsCsharp", "LessonsCsh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios", "Exercicios\Exercicios.csproj", "{18CEB1E1-AE6D-43A5-BB64-C6F9FCA386B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{BD308963-5FAC-40A9-A245-C12DCE5B535C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{BD308963-5FAC-40A9-A245-C12DCE5B535C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFIxacao1", "ExercicioDeFIxacao1\ExercicioDeFIxacao1.csproj", "{99BEE048-B299-4040-9E0D-5BB3ACBD8ECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFIxacao1", "ExercicioDeFIxacao1\ExercicioDeFIxacao1.csproj", "{99BEE048-B299-4040-9E0D-5BB3ACBD8ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao", "ExercicioDeFixacao\ExercicioDeFixacao.csproj", "{0BCA114B-265B-423E-8542-2C751BCA3CE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{99BEE048-B299-4040-9E0D-5BB3ACBD8ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99BEE048-B299-4040-9E0D-5BB3ACBD8ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99BEE048-B299-4040-9E0D-5BB3ACBD8ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCA114B-265B-423E-8542-2C751BCA3CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCA114B-265B-423E-8542-2C751BCA3CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCA114B-265B-423E-8542-2C751BCA3CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCA114B-265B-423E-8542-2C751BCA3CE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.exe
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.deps.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.dev.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.genruntimeconfig.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
