@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\bin\Debug\netcoreapp3.1\ExercicioDeFIxacao1.exe
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\bin\Debug\netcoreapp3.1\ExercicioDeFIxacao1.deps.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\bin\Debug\netcoreapp3.1\ExercicioDeFIxacao1.runtimeconfig.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\bin\Debug\netcoreapp3.1\ExercicioDeFIxacao1.runtimeconfig.dev.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\bin\Debug\netcoreapp3.1\ExercicioDeFIxacao1.dll
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\bin\Debug\netcoreapp3.1\ExercicioDeFIxacao1.pdb
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\obj\Debug\netcoreapp3.1\ExercicioDeFIxacao1.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\obj\Debug\netcoreapp3.1\ExercicioDeFIxacao1.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\obj\Debug\netcoreapp3.1\ExercicioDeFIxacao1.AssemblyInfo.cs
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\obj\Debug\netcoreapp3.1\ExercicioDeFIxacao1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\obj\Debug\netcoreapp3.1\ExercicioDeFIxacao1.dll
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\obj\Debug\netcoreapp3.1\ExercicioDeFIxacao1.pdb
+C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\ExercicioDeFIxacao1\obj\Debug\netcoreapp3.1\ExercicioDeFIxacao1.genruntimeconfig.cache
