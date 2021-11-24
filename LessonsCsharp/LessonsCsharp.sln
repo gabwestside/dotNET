@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFIxacao1", "Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao", "ExercicioDeFixacao\ExercicioDeFixacao.csproj", "{0BCA114B-265B-423E-8542-2C751BCA3CE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetStartedFunctions", "GetStartedFunctions\GetStartedFunctions.csproj", "{A290DB56-0E64-49D8-866E-7FFB524D82BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0BCA114B-265B-423E-8542-2C751BCA3CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BCA114B-265B-423E-8542-2C751BCA3CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BCA114B-265B-423E-8542-2C751BCA3CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A290DB56-0E64-49D8-866E-7FFB524D82BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A290DB56-0E64-49D8-866E-7FFB524D82BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A290DB56-0E64-49D8-866E-7FFB524D82BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A290DB56-0E64-49D8-866E-7FFB524D82BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
