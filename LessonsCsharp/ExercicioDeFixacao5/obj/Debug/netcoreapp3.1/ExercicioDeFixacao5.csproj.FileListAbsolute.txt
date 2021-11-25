@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\bin\Debug\netcoreapp3.1\ExercicioDeFixacao5.exe
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\bin\Debug\netcoreapp3.1\ExercicioDeFixacao5.deps.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\bin\Debug\netcoreapp3.1\ExercicioDeFixacao5.runtimeconfig.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\bin\Debug\netcoreapp3.1\ExercicioDeFixacao5.runtimeconfig.dev.json
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\bin\Debug\netcoreapp3.1\ExercicioDeFixacao5.dll
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\bin\Debug\netcoreapp3.1\ExercicioDeFixacao5.pdb
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\obj\Debug\netcoreapp3.1\ExercicioDeFixacao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\obj\Debug\netcoreapp3.1\ExercicioDeFixacao5.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\obj\Debug\netcoreapp3.1\ExercicioDeFixacao5.AssemblyInfo.cs
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\obj\Debug\netcoreapp3.1\ExercicioDeFixacao5.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\obj\Debug\netcoreapp3.1\ExercicioDeFixacao5.dll
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\obj\Debug\netcoreapp3.1\ExercicioDeFixacao5.pdb
+C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\ExercicioDeFixacao5\obj\Debug\netcoreapp3.1\ExercicioDeFixacao5.genruntimeconfig.cache
