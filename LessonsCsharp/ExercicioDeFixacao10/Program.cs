@@ -16,11 +16,13 @@ namespace ExercicioDeFixacao10 {
             Console.Write("Notal Final = " + student.FinalGrade().ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine();
             
-            if (student.FinalGrade() >= 90.00) {
+            if (student.Aproved()) {
                 Console.WriteLine("Aprovado!");
             } else {
                 Console.WriteLine("Reprovado!");
-                Console.WriteLine("Faltarem " + student.NeededGrade().ToString("F2", CultureInfo.InvariantCulture) + "pontos... :(");
+                Console.WriteLine("Faltaram " 
+                    + student.NeededGrade().ToString("F2", CultureInfo.InvariantCulture) 
+                    + " pontos... :(");
 
             }
 
