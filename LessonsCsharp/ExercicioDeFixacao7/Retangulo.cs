@@ -11,12 +11,14 @@ namespace ExercicioDeFixacao7 {
             return height * width;
         }
 
-        //public double Perimetro() {
+        public double Perimetro() {
+            return (2 * height) + (2 * width);
+        }
 
-        //}
-
-        //public double Diagonal() {
-
-        //}
+        public double Diagonal() {
+            double d = (height * height) + (width * width);
+            d = Math.Sqrt(d);
+            return d;
+        }
     }
 }
