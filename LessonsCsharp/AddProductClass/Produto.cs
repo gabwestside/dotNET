@@ -4,9 +4,22 @@ using System.Text;
 
 namespace AddProductClass {
     class Produto {
-        public string name;
-        public double price;
-        public int qtd;
+        private string name;
+        private double price;
+        private int qtd;
+
+        public Produto() {
+            qtd = 10;
+        }
+        public Produto(string Name, double Price) : this() {
+            name = Name;
+            price = Price;
+        }
+
+        public Produto(string Name, double Price, int Qtd) : this(Name, Price) {
+            qtd = Qtd;
+        }
+
 
         public double ValorTotalEmEstoque() {
             return price * qtd;

@@ -4,18 +4,19 @@ using System.Globalization;
 namespace AddProductClass {
     class Program {
         static void Main(string[] args) {
-            Produto newProduct = new Produto();
 
             Console.WriteLine("Entre com os dados do produto:");
 
             Console.Write("Nome: ");
-            newProduct.name = Console.ReadLine();
+            string name = Console.ReadLine();
 
             Console.Write("Preço: ");
-            newProduct.price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.Write("Quantidade em estoque: ");
-            newProduct.qtd = int.Parse(Console.ReadLine());
+            int qtd = int.Parse(Console.ReadLine());
+
+            Produto newProduct = new Produto(name, price, qtd);
 
             Console.Write("Dados do produto: " + newProduct);
 
@@ -33,8 +34,6 @@ namespace AddProductClass {
             newProduct.RemoverProdutos(remProd);
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + newProduct);
-
-
         }
     }
 }
