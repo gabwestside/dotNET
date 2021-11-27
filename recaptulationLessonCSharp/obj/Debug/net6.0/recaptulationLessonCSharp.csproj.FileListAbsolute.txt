@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\bin\Debug\net6.0\recaptulationLessonCSharp.exe
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\bin\Debug\net6.0\recaptulationLessonCSharp.deps.json
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\bin\Debug\net6.0\recaptulationLessonCSharp.runtimeconfig.json
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\bin\Debug\net6.0\recaptulationLessonCSharp.dll
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\bin\Debug\net6.0\ref\recaptulationLessonCSharp.dll
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\bin\Debug\net6.0\recaptulationLessonCSharp.pdb
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\recaptulationLessonCSharp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\recaptulationLessonCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\recaptulationLessonCSharp.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\recaptulationLessonCSharp.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\recaptulationLessonCSharp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\recaptulationLessonCSharp.dll
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\ref\recaptulationLessonCSharp.dll
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\recaptulationLessonCSharp.pdb
+C:\Users\USUARIO\Documents\.NET\recaptulationLessonCSharp\obj\Debug\net6.0\recaptulationLessonCSharp.genruntimeconfig.cache

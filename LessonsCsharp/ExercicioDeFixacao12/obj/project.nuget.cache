@@ -1,10 +1,45 @@
 {
   "version": 2,
-  "dgSpecHash": "2d2r6GcwwBOQXVfVLegkGlguSenHop5N2N1W0QB7JS8kMLNSG42vkLyISX1kodUVqBwDxOAjvhb9UPui0GU+AQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao12\\ExercicioDeFixacao12.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "HGqxL+kSfztD3Hl4EEGcdCw81oQVeDErLTwd+UGW8810uAfMmeVxEww7ogWqwrucUlLgn7hynBzrscXT9BfWKA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\LessonsCsharp\\ExercicioDeFixacao12\\ExercicioDeFixacao12.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.NETCore.App.Ref (= 3.1.0)' para '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.WindowsDesktop.App.Ref (= 3.1.0)' para '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.AspNetCore.App.Ref (= 3.1.10)' para '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.NETCore.App.Host.win-x64 (= 3.1.21)' para '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
