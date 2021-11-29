@@ -5,7 +5,9 @@ class Program
 {
     ContaBancaria account;
     static void Main(string[] args)
-    {
+    {   
+        ContaBancaria account;
+
         Console.Write("Entre com o número da conta: ");
         int numero = int.Parse(Console.ReadLine());
 
@@ -26,20 +28,27 @@ class Program
             account = new ContaBancaria(numero, titular);
         }
 
-        // Console.WriteLine();
+        Console.WriteLine();
 
-        // Console.WriteLine("Dados da conta: ");
-        // Console.Write("Conta: " + account);
+        Console.WriteLine("Dados da conta: ");
+        Console.Write("Conta: " + account);
 
-        // Console.WriteLine();
+        Console.WriteLine();
 
-        // Console.Write("Entre um valor para depósito: ");
-        // account.deposit = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        Console.Write("Entre um valor para depósito: ");
+        double deposit = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        account.Deposito(deposit);
 
-        // Console.WriteLine("Dados atualizados:");
-        // Console.Write("Conta " + account);
+        Console.WriteLine("Dados atualizados:");
+        Console.Write("Conta " + account);
+        
+        Console.WriteLine();
 
-        // Console.Write("Entre um valor para saque: ");
-        // account.withdraw = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        Console.Write("Entre um valor para saque: ");
+        double withdraw = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        account.Saque(withdraw);
+
+        Console.WriteLine("Dados atualizados:");
+        Console.Write("Conta " + account);
     }
 }
