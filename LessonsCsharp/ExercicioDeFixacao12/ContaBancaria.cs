@@ -4,17 +4,32 @@ using System.Text;
 
 namespace ExercicioDeFixacao12 {
     class ContaBancaria {
-        public int _idAccount;
-        public string name;
-        public string response;
-        public double initialDeposit;
+        public int number { get; private set; }
+        public string name { get; set; }
+        public double balance { get; private set; }
+
+        public ContaBancaria(int Number, string Name) {
+            number = Number;
+            name = Name;
+        }
+        public ContaBancaria(int Number, string Name, double Balance) : this(Number, Name) {
+            balance = Balance;
+        }
+
+        public void Deposito(double deposit) {
+            balance += deposit;
+        }
+
+        public void Saque(double withdraw) {
+            balance -= withdraw + 5.0;
+        }
 
         public override string ToString() {
-            return _idAccount
+            return number
                 + ", Titular: "
                 + name
                 + ", "
-                + initialDeposit.ToString("F2", CultureInfo.InvariantCulture)
+                + balance.ToString("F2", CultureInfo.InvariantCulture)
                 + " deposito inicial."
                 ;
         }
