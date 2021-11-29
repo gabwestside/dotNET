@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetorExample", "VetorExampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectProductExample", "VectProductExample\VectProductExample.csproj", "{FE00A292-6E27-42DA-8C82-80814FE821D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao13", "ExercicioDeFixacao13\ExercicioDeFixacao13.csproj", "{AA481B27-8735-42C0-8F70-48E39FA65A9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{FE00A292-6E27-42DA-8C82-80814FE821D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE00A292-6E27-42DA-8C82-80814FE821D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE00A292-6E27-42DA-8C82-80814FE821D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA481B27-8735-42C0-8F70-48E39FA65A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA481B27-8735-42C0-8F70-48E39FA65A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA481B27-8735-42C0-8F70-48E39FA65A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA481B27-8735-42C0-8F70-48E39FA65A9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
