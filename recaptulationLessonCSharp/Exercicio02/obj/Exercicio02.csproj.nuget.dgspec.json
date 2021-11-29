@@ -1,29 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj": {}
+    "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj",
         "projectName": "Exercicio02",
-        "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj",
-        "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\recaptulationLessonCSharp\\Exercicio02\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\recaptulationLessonCSharp\\Exercicio02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabriel.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
