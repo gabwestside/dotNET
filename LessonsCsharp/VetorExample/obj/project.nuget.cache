@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IN/5qxSmPl4801irF9ydtuzib+P6wCQBkXqHfp8wBzcbgGf4RPf2kKoWk6DeK5pspSd8a+DFGdTdGoa0sjMzmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\VetorExample\\VetorExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

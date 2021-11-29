@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ir5OvD8X2IZCpNkC8NmWZRcEQ7ZvY7D45mlLZLeA7mLs8Gp1RLmmaiVMk/lGH6fI/UOm2EyLV0wHuCXA5MM83A==",
+  "dgSpecHash": "AdmWCVmur3dESTezo+eJd3xzgeR2ELTIV/cxP1/lb1UroGb+jZAtpVqyl8qCIz8KPME1mwt86uH5vhfmBtmc0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao1.csproj",
+  "projectFilePath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel.moura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],

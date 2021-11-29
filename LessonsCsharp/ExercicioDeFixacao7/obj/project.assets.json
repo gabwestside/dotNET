@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao7\\ExercicioDeFixacao7.csproj",
-      "projectName": "ExercicioDeFixacao7",
-      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao7\\ExercicioDeFixacao7.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao7\\ExercicioDeFixacao07.csproj",
+      "projectName": "ExercicioDeFixacao07",
+      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao7\\ExercicioDeFixacao07.csproj",
       "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao7\\obj\\",
       "projectStyle": "PackageReference",

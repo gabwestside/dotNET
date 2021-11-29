@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\Exercicios\\Exercicios.csproj",
-      "projectName": "Exercicios",
-      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\Exercicios\\Exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\Exercicios\\ExerciciosIniciais.csproj",
+      "projectName": "ExerciciosIniciais",
+      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\Exercicios\\ExerciciosIniciais.csproj",
       "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\Exercicios\\obj\\",
       "projectStyle": "PackageReference",

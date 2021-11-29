@@ -5,41 +5,47 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LessonsCsharp", "LessonsCsharp\LessonsCsharp.csproj", "{34366ACB-FC76-4AF2-9A2B-CAD780A2E476}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios", "Exercicios\Exercicios.csproj", "{18CEB1E1-AE6D-43A5-BB64-C6F9FCA386B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosIniciais", "Exercicios\ExerciciosIniciais.csproj", "{18CEB1E1-AE6D-43A5-BB64-C6F9FCA386B7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{BD308963-5FAC-40A9-A245-C12DCE5B535C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFIxacao1", "ExercicioDeFIxacao1\ExercicioDeFIxacao1.csproj", "{99BEE048-B299-4040-9E0D-5BB3ACBD8ECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFIxacao01", "ExercicioDeFIxacao1\ExercicioDeFIxacao01.csproj", "{99BEE048-B299-4040-9E0D-5BB3ACBD8ECA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao", "ExercicioDeFixacao\ExercicioDeFixacao.csproj", "{0BCA114B-265B-423E-8542-2C751BCA3CE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao00", "ExercicioDeFixacao\ExercicioDeFixacao00.csproj", "{0BCA114B-265B-423E-8542-2C751BCA3CE8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetStartedFunctions", "GetStartedFunctions\GetStartedFunctions.csproj", "{A290DB56-0E64-49D8-866E-7FFB524D82BE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileLessons", "WhileLessons\WhileLessons.csproj", "{9B2C7588-058E-48E7-AAE5-D68F95409810}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao2", "ExerciciosDeFixação2\ExercicioDeFixacao2.csproj", "{F0946881-C1FD-4AC2-8580-2281E9EFB630}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao02", "ExerciciosDeFixação2\ExercicioDeFixacao02.csproj", "{F0946881-C1FD-4AC2-8580-2281E9EFB630}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao3", "ExercicioDeFixacao3\ExercicioDeFixacao3.csproj", "{75A0CDC6-E7C1-46DE-8E5E-25966E6B5F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao03", "ExercicioDeFixacao3\ExercicioDeFixacao03.csproj", "{75A0CDC6-E7C1-46DE-8E5E-25966E6B5F2C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao4", "ExercicioDeFixacao4\ExercicioDeFixacao4.csproj", "{8C5C82B2-2B38-4E8E-B406-BA0C0D70FE75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao04", "ExercicioDeFixacao4\ExercicioDeFixacao04.csproj", "{8C5C82B2-2B38-4E8E-B406-BA0C0D70FE75}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao5", "ExercicioDeFixacao5\ExercicioDeFixacao5.csproj", "{5EC5D1AA-FD8D-4BFB-98A3-14BB2C00C313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao05", "ExercicioDeFixacao5\ExercicioDeFixacao05.csproj", "{5EC5D1AA-FD8D-4BFB-98A3-14BB2C00C313}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao6", "ExercicioDeFixacao6\ExercicioDeFixacao6.csproj", "{77623FAF-E0D0-41A2-AEAC-331A02F825C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao06", "ExercicioDeFixacao6\ExercicioDeFixacao06.csproj", "{77623FAF-E0D0-41A2-AEAC-331A02F825C9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddProductClass", "AddProductClass\AddProductClass.csproj", "{3DB447B2-4D6F-4784-BB5B-812B72CE2345}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao7", "ExercicioDeFixacao7\ExercicioDeFixacao7.csproj", "{E820E5BB-F744-4EAE-AD28-9EAE1A3D8398}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao07", "ExercicioDeFixacao7\ExercicioDeFixacao07.csproj", "{E820E5BB-F744-4EAE-AD28-9EAE1A3D8398}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao8", "ExercicioDeFixacao8\ExercicioDeFixacao8.csproj", "{9B2AAB5A-6993-4925-B9A9-A54B5ECF131E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao08", "ExercicioDeFixacao8\ExercicioDeFixacao08.csproj", "{9B2AAB5A-6993-4925-B9A9-A54B5ECF131E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao9", "ExercicioDeFixacao9\ExercicioDeFixacao9.csproj", "{87F24FA3-6B49-4FC0-A1B1-9D0DBA425DBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao09", "ExercicioDeFixacao9\ExercicioDeFixacao09.csproj", "{87F24FA3-6B49-4FC0-A1B1-9D0DBA425DBF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao10", "ExercicioDeFixacao10\ExercicioDeFixacao10.csproj", "{91E6EC84-F60D-4A37-8508-71D3DBA91A69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao11", "ExercicioDeFixacao11\ExercicioDeFixacao11.csproj", "{2AC14ED0-575E-45C5-BED0-60E40543E4A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao11", "ExercicioDeFixacao11\ExercicioDeFixacao11.csproj", "{2AC14ED0-575E-45C5-BED0-60E40543E4A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao12", "ExercicioDeFixacao12\ExercicioDeFixacao12.csproj", "{D32A0678-4FE1-468E-B927-BE35124BB706}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao12", "ExercicioDeFixacao12\ExercicioDeFixacao12.csproj", "{D32A0678-4FE1-468E-B927-BE35124BB706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableExample", "NullableExample\NullableExample.csproj", "{F8201FAB-9839-49A9-9D67-26EB4536E162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetorExample", "VetorExample\VetorExample.csproj", "{B3791241-527D-4A24-BC62-44BB5083B41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectProductExample", "VectProductExample\VectProductExample.csproj", "{FE00A292-6E27-42DA-8C82-80814FE821D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{D32A0678-4FE1-468E-B927-BE35124BB706}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D32A0678-4FE1-468E-B927-BE35124BB706}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D32A0678-4FE1-468E-B927-BE35124BB706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8201FAB-9839-49A9-9D67-26EB4536E162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8201FAB-9839-49A9-9D67-26EB4536E162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8201FAB-9839-49A9-9D67-26EB4536E162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8201FAB-9839-49A9-9D67-26EB4536E162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3791241-527D-4A24-BC62-44BB5083B41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3791241-527D-4A24-BC62-44BB5083B41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3791241-527D-4A24-BC62-44BB5083B41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3791241-527D-4A24-BC62-44BB5083B41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE00A292-6E27-42DA-8C82-80814FE821D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE00A292-6E27-42DA-8C82-80814FE821D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE00A292-6E27-42DA-8C82-80814FE821D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE00A292-6E27-42DA-8C82-80814FE821D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

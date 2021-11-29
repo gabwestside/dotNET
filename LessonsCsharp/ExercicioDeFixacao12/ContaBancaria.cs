@@ -12,8 +12,8 @@ namespace ExercicioDeFixacao12 {
             number = Number;
             name = Name;
         }
-        public ContaBancaria(int Number, string Name, double Balance) : this(Number, Name) {
-            balance = Balance;
+        public ContaBancaria(int Number, string Name, double initalDeposit) : this(Number, Name) {
+            Deposito(initalDeposit);
         }
 
         public void Deposito(double deposit) {
@@ -30,7 +30,6 @@ namespace ExercicioDeFixacao12 {
                 + name
                 + ", "
                 + balance.ToString("F2", CultureInfo.InvariantCulture)
-                + " deposito inicial."
                 ;
         }
     }

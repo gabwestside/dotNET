@@ -12,9 +12,9 @@ public class ContaBancaria
         number = Number;
         name = Name;
     }
-    public ContaBancaria(int Number, string Name, double Balance) : this(Number, Name)
+    public ContaBancaria(int Number, string Name, double initialDeposit) : this(Number, Name)
     {
-        balance = Balance;
+        Deposito(initialDeposit);
     }
     
     public void Deposito(double deposit)
@@ -34,7 +34,6 @@ public class ContaBancaria
             + name
             + ", "
             + balance.ToString("F2", CultureInfo.InvariantCulture)
-            + " deposito inicial."
             ;
     }
 }
