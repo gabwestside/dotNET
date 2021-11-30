@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj": {}
+    "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj": {
+    "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj",
         "projectName": "ExercicioDeFIxacao01",
-        "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj",
-        "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\obj\\",
+        "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\ExercicioDeFIxacao01.csproj",
+        "packagesPath": "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFIxacao1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabriel.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel.moura.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -41,13 +41,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao11", "Exe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao12", "ExercicioDeFixacao12\ExercicioDeFixacao12.csproj", "{D32A0678-4FE1-468E-B927-BE35124BB706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableExample", "NullableExample\NullableExample.csproj", "{F8201FAB-9839-49A9-9D67-26EB4536E162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableExample", "NullableExample\NullableExample.csproj", "{F8201FAB-9839-49A9-9D67-26EB4536E162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetorExample", "VetorExample\VetorExample.csproj", "{B3791241-527D-4A24-BC62-44BB5083B41D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VetorExample", "VetorExample\VetorExample.csproj", "{B3791241-527D-4A24-BC62-44BB5083B41D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectProductExample", "VectProductExample\VectProductExample.csproj", "{FE00A292-6E27-42DA-8C82-80814FE821D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectProductExample", "VectProductExample\VectProductExample.csproj", "{FE00A292-6E27-42DA-8C82-80814FE821D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao13", "ExercicioDeFixacao13\ExercicioDeFixacao13.csproj", "{AA481B27-8735-42C0-8F70-48E39FA65A9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioDeFixacao13", "ExercicioDeFixacao13\ExercicioDeFixacao13.csproj", "{AA481B27-8735-42C0-8F70-48E39FA65A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao14", "ExercicioDeFixacao14\ExercicioDeFixacao14.csproj", "{B1020E7D-BAE8-47C3-B39A-9A62118361A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{AA481B27-8735-42C0-8F70-48E39FA65A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA481B27-8735-42C0-8F70-48E39FA65A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA481B27-8735-42C0-8F70-48E39FA65A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1020E7D-BAE8-47C3-B39A-9A62118361A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1020E7D-BAE8-47C3-B39A-9A62118361A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1020E7D-BAE8-47C3-B39A-9A62118361A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1020E7D-BAE8-47C3-B39A-9A62118361A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

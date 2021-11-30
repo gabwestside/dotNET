@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj": {}
+    "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj": {
+    "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj",
         "projectName": "WhileLessons",
-        "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj",
-        "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\obj\\",
+        "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj",
+        "packagesPath": "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabriel.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel.moura.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

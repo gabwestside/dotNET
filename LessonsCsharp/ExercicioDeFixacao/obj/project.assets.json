@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.moura\\.nuget\\packages\\": {}
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao\\ExercicioDeFixacao00.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao\\ExercicioDeFixacao00.csproj",
       "projectName": "ExercicioDeFixacao00",
-      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao\\ExercicioDeFixacao00.csproj",
-      "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.moura\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao\\obj\\",
+      "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao\\ExercicioDeFixacao00.csproj",
+      "packagesPath": "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabriel.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabriel.moura.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
