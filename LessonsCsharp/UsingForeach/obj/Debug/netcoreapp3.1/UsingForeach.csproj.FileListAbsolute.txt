@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\bin\Debug\netcoreapp3.1\UsingForeach.exe
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\bin\Debug\netcoreapp3.1\UsingForeach.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\bin\Debug\netcoreapp3.1\UsingForeach.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\bin\Debug\netcoreapp3.1\UsingForeach.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\bin\Debug\netcoreapp3.1\UsingForeach.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\bin\Debug\netcoreapp3.1\UsingForeach.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\obj\Debug\netcoreapp3.1\UsingForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\obj\Debug\netcoreapp3.1\UsingForeach.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\obj\Debug\netcoreapp3.1\UsingForeach.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\obj\Debug\netcoreapp3.1\UsingForeach.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\obj\Debug\netcoreapp3.1\UsingForeach.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\obj\Debug\netcoreapp3.1\UsingForeach.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingForeach\obj\Debug\netcoreapp3.1\UsingForeach.genruntimeconfig.cache
