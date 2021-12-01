@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExercicioDeFixacao3 {
+namespace ExercicioDeFixacao03 {
     class Program {
         static void Main(string[] args) {
             Console.Write("Digite um numero inteiro entre 1 e 100: ");

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExercicioDeFixacao9 {
+namespace ExercicioDeFixacao09 {
     class Program {
         static void Main(string[] args) {
 

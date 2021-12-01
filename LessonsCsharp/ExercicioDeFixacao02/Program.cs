@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExerciciosDeFixação2 {
+namespace ExerciciosDeFixacao02 {
     class Program {
         static void Main(string[] args) {
             Console.Write("Quantas numeros inteiros vc vai digitar? ");

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOe78/txWWsGD/nZR1raPoZxhYnVEDVVNraKNsW2Jg1LxnY68VyqWiqKZE7Ng9WkvR8RvyE/cClWFZ8hFZniEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\UsingMatrix\\UsingMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExercicioDeFixacao8 {
+namespace ExercicioDeFixacao08 {
     class Funcionario {
         public string name;
         public double salary;

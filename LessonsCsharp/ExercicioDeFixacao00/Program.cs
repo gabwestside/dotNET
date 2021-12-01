@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExercicioDeFixacao {
+namespace ExercicioDeFixacao00 {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("----------SOMA DE DOIS VALORES----------");

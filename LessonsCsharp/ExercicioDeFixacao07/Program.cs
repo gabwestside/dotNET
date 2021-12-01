@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ExercicioDeFixacao7 {
+namespace ExercicioDeFixacao07 {
     class Program {
         static void Main(string[] args) {
             Retangulo retangulo = new Retangulo();

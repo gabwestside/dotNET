@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ExercicioDeFIxacao1 {
+namespace ExercicioDeFIxacao01 {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Entre com seu nome completo: ");

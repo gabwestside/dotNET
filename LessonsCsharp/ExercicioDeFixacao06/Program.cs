@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ExercicioDeFixacao6 {
+namespace ExercicioDeFixacao06 {
     class Program {
         static void Main(string[] args) {
             Funcionario officer1, officer2;

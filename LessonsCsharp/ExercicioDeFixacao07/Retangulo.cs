@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExercicioDeFixacao7 {
+namespace ExercicioDeFixacao07 {
     class Retangulo {
         public double width;
         public double height;

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExercicioDeFixacao5 {
+namespace ExercicioDeFixacao05 {
     class Pessoa {
         public string name;
         public int age;

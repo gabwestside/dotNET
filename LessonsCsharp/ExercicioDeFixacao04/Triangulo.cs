@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExercicioDeFixacao4 {
+namespace ExercicioDeFixacao04 {
     class Triangulo {
         public double A;
         public double B;

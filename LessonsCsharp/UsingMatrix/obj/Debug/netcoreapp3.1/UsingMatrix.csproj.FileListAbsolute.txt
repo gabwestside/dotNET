@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\bin\Debug\netcoreapp3.1\UsingMatrix.exe
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\bin\Debug\netcoreapp3.1\UsingMatrix.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\bin\Debug\netcoreapp3.1\UsingMatrix.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\bin\Debug\netcoreapp3.1\UsingMatrix.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\bin\Debug\netcoreapp3.1\UsingMatrix.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\bin\Debug\netcoreapp3.1\UsingMatrix.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\obj\Debug\netcoreapp3.1\UsingMatrix.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\obj\Debug\netcoreapp3.1\UsingMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\obj\Debug\netcoreapp3.1\UsingMatrix.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\obj\Debug\netcoreapp3.1\UsingMatrix.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\obj\Debug\netcoreapp3.1\UsingMatrix.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\obj\Debug\netcoreapp3.1\UsingMatrix.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\obj\Debug\netcoreapp3.1\UsingMatrix.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\UsingMatrix\obj\Debug\netcoreapp3.1\UsingMatrix.genruntimeconfig.cache
