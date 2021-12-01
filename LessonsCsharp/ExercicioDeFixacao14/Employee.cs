@@ -16,7 +16,7 @@ namespace ExercicioDeFixacao14 {
         }
 
         public void IncreaseSalary(double per) {
-
+            Salary += Salary * per / 100.0;
         }
 
         public override string ToString() {

@@ -13,7 +13,7 @@ namespace ExercicioDeFixacao14 {
             List<Employee> list = new List<Employee>();
 
             for (int i = 0; i < n; i++) {
-                Console.WriteLine($"Empolyee #{i+1}:");
+                Console.WriteLine($"Employee #{i+1}:");
                 Console.Write("Id: ");
                 int id = int.Parse(Console.ReadLine());
 
@@ -27,11 +27,19 @@ namespace ExercicioDeFixacao14 {
                 Console.WriteLine();
             }
 
-            //Console.Write("Enter the employee id that will have salary increase: ");
-            //double salaryIncrease = double.Parse(Console.ReadLine());
-            //Console.WriteLine();
-            //Console.Write("Enter the percentage: ");
-            //double per = double.Parse(Console.ReadLine());
+            Console.Write("Enter the employee id that will have salary increase: ");
+            int idToIncrease = int.Parse(Console.ReadLine());
+
+            Employee emp = list.Find(x => x.Id == idToIncrease);
+            if (emp != null) {
+                Console.Write("Enter the percentage: ");
+                double per = double.Parse(Console.ReadLine(), CultureInfo.InstalledUICulture);
+                emp.IncreaseSalary(per);
+            } else {
+                Console.WriteLine("This id does not exist!");
+            }
+
+            Console.WriteLine( );
 
             Console.WriteLine("Update list of employees:");
             foreach (Employee obj in list) {
