@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CjTnpXGZJpDVG+c0PAsJcEuBi/aQvrA5c8KSQHSDzy6vWzDY6wkVPghlu1IgPt1QjjBAfvONZRgz7y4vdKbIDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\MainSolution\\MainSolution\\MainSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
