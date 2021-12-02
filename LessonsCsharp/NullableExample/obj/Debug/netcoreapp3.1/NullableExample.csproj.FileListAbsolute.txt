@@ -12,3 +12,17 @@ C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Nul
 C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.dll
 C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.pdb
 C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.genruntimeconfig.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\bin\Debug\netcoreapp3.1\NullableExample.exe
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\bin\Debug\netcoreapp3.1\NullableExample.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\bin\Debug\netcoreapp3.1\NullableExample.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\bin\Debug\netcoreapp3.1\NullableExample.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\bin\Debug\netcoreapp3.1\NullableExample.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\bin\Debug\netcoreapp3.1\NullableExample.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\NullableExample\obj\Debug\netcoreapp3.1\NullableExample.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.exe
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.genruntimeconfig.cache

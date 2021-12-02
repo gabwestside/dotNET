@@ -11,3 +11,17 @@ C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Get
 C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.dll
 C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.pdb
 C:\Users\gabriel.moura\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.genruntimeconfig.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\bin\Debug\netcoreapp3.1\GetStartedFunctions.exe
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\bin\Debug\netcoreapp3.1\GetStartedFunctions.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\bin\Debug\netcoreapp3.1\GetStartedFunctions.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\bin\Debug\netcoreapp3.1\GetStartedFunctions.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\bin\Debug\netcoreapp3.1\GetStartedFunctions.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\bin\Debug\netcoreapp3.1\GetStartedFunctions.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\GetStartedFunctions\obj\Debug\netcoreapp3.1\GetStartedFunctions.genruntimeconfig.cache

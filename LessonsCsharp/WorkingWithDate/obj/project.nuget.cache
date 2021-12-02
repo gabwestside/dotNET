@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uFPemUYkH+Hu7IHk1RMK7MOR4urnoZpYB3t91TY3oRJhg9yB/Jb2o2pwQ70kwZIfGk4V9LaPekgyPgb2RyCOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\WorkingWithDate\\WorkingWithDate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

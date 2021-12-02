@@ -10,3 +10,17 @@ C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\Exercicio1\obj\
 C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
 C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
 C:\Users\gabriel.moura\Documents\Coding-Stuff\.NET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\bin\Debug\netcoreapp3.1\WorkingWithDate.exe
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\bin\Debug\netcoreapp3.1\WorkingWithDate.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\bin\Debug\netcoreapp3.1\WorkingWithDate.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\bin\Debug\netcoreapp3.1\WorkingWithDate.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\bin\Debug\netcoreapp3.1\WorkingWithDate.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\bin\Debug\netcoreapp3.1\WorkingWithDate.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\obj\Debug\netcoreapp3.1\WorkingWithDate.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\obj\Debug\netcoreapp3.1\WorkingWithDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\obj\Debug\netcoreapp3.1\WorkingWithDate.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\obj\Debug\netcoreapp3.1\WorkingWithDate.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\obj\Debug\netcoreapp3.1\WorkingWithDate.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\obj\Debug\netcoreapp3.1\WorkingWithDate.dll
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\obj\Debug\netcoreapp3.1\WorkingWithDate.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WorkingWithDate\obj\Debug\netcoreapp3.1\WorkingWithDate.genruntimeconfig.cache
