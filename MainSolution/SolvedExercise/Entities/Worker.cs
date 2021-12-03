@@ -17,11 +17,12 @@ namespace SolvedExerciseAboutEnum.Entities
 
         }
 
-        public Worker(string name, WorkerLevel level, double baseSalary)
+        public Worker(string name, WorkerLevel level, double baseSalary, Departament dept)
         {
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
+            Departament = dept;
         }
 
         public void AddContract(HourContract contract)
