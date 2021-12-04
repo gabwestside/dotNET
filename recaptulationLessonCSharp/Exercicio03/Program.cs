@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
-using SolvedExerciseAboutEnum.Entities;
-using SolvedExerciseAboutEnum.Entities.Enums;
+using Exercicio03.Entities;
+using Exercicio03.Entities.Enums;
 
 namespace Exercicio03
 {

@@ -8,23 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\Cecilia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj",
+      "projectUniqueName": "C:\\Users\\Cecilia\\Documents\\_Gabwestside\\_codingMode\\dotNET\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj",
       "projectName": "Exercicio02",
-      "projectPath": "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Documents\\.NET\\dotNet\\recaptulationLessonCSharp\\Exercicio02\\obj\\",
+      "projectPath": "C:\\Users\\Cecilia\\Documents\\_Gabwestside\\_codingMode\\dotNET\\recaptulationLessonCSharp\\Exercicio02\\Exercicio02.csproj",
+      "packagesPath": "C:\\Users\\Cecilia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cecilia\\Documents\\_Gabwestside\\_codingMode\\dotNET\\recaptulationLessonCSharp\\Exercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Cecilia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
