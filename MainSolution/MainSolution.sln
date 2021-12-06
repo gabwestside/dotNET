@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainSolution", "MainSolution\MainSolution.csproj", "{6E95725D-9675-48A1-A257-52B5A817793A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolvedExercise", "SolvedExercise\SolvedExercise.csproj", "{AC43B393-6B33-443D-B55C-442F1DA71F42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolvedExerciseAboutEnum", "SolvedExercise\SolvedExerciseAboutEnum.csproj", "{AC43B393-6B33-443D-B55C-442F1DA71F42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

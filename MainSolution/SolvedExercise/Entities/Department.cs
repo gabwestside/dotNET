@@ -4,15 +4,15 @@ using System.Text;
 
 namespace SolvedExerciseAboutEnum.Entities
 {
-    class Departament
+    class Department
     {
         public string Name { get; set; }
 
-        public Departament()
+        public Department()
         {
 
         }
-        public Departament(string name)
+        public Department(string name)
         {
             Name = name;
         }
