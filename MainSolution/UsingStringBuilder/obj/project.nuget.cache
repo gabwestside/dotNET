@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0qrK0A6Tf3bUTo55paJ613I1niVms5eFxZZzWh8lpHDaokNKOktf6aH01BECkpzBaATKr0XHguCb8Xp1h5D6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\MainSolution\\UsingStringBuilder\\UsingStringBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
