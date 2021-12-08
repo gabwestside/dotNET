@@ -42,14 +42,13 @@ namespace ProposedExercise00
                     double tax = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                     list.Add(new ImportedProduct(name, price, tax));
                 }
+            }
 
-                Console.WriteLine();
-                Console.WriteLine("Price Tags:");
-                foreach (Product prod in list)
-                {
-                    Console.WriteLine(prod.PriceTag());
-                }
-
+            Console.WriteLine();
+            Console.WriteLine("Price Tags:");
+            foreach (Product prod in list)
+            {
+                Console.WriteLine(prod.PriceTag());
             }
         }
     }
