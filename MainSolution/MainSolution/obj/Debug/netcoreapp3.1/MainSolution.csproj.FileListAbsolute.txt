@@ -12,3 +12,17 @@ C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\MainSolut
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.dll
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.pdb
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.genruntimeconfig.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\bin\Debug\netcoreapp3.1\MainSolution.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\bin\Debug\netcoreapp3.1\MainSolution.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\bin\Debug\netcoreapp3.1\MainSolution.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\bin\Debug\netcoreapp3.1\MainSolution.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\bin\Debug\netcoreapp3.1\MainSolution.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\bin\Debug\netcoreapp3.1\MainSolution.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\MainSolution\obj\Debug\netcoreapp3.1\MainSolution.genruntimeconfig.cache

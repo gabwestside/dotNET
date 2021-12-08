@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\bin\Debug\netcoreapp3.1\ProposedExercise00.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\bin\Debug\netcoreapp3.1\ProposedExercise00.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\bin\Debug\netcoreapp3.1\ProposedExercise00.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\bin\Debug\netcoreapp3.1\ProposedExercise00.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\bin\Debug\netcoreapp3.1\ProposedExercise00.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\bin\Debug\netcoreapp3.1\ProposedExercise00.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\obj\Debug\netcoreapp3.1\ProposedExercise00.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\obj\Debug\netcoreapp3.1\ProposedExercise00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\obj\Debug\netcoreapp3.1\ProposedExercise00.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\obj\Debug\netcoreapp3.1\ProposedExercise00.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\obj\Debug\netcoreapp3.1\ProposedExercise00.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\obj\Debug\netcoreapp3.1\ProposedExercise00.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\obj\Debug\netcoreapp3.1\ProposedExercise00.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\ProposedExercise00\obj\Debug\netcoreapp3.1\ProposedExercise00.genruntimeconfig.cache
