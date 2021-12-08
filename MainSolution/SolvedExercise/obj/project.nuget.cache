@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xBdwe9ZT+bofUqcTsc3m4Riq3KR7pxTWmzx6/PLX45WaEJy6CU4MuTew/dAYgVG6AsxZWUA4171DAFzm8cActw==",
+  "dgSpecHash": "NhClE2EXZQlL6xj0tcsAmIn/8rehyVFyw0agN9TOdexK4FeUpBuPpxLnyrYbHy3tKG+z9L5t0ZAatjuq+68Qjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\MainSolution\\SolvedExercise\\SolvedExerciseAboutEnum.csproj",
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\SolvedExercise\\SolvedExerciseAboutEnum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],

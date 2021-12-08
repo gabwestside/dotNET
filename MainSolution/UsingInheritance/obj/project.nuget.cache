@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvuA2h9b8SxY59MnezFl+Gh7m851A1zfDWwV8k3xS6aeoXC5eNfl5p3zTE6C+OlWrAdJ9LRRJD6lStQKPhL2fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingInheritance\\UsingInheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
