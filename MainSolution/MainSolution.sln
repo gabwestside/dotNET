@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolvedExerciseAboutEnum", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingStringBuilder", "UsingStringBuilder\UsingStringBuilder.csproj", "{AC66EEDC-6ADB-4988-BEEB-A9592BE11F18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingInheritance", "UsingInheritance\UsingInheritance.csproj", "{A12182A4-0756-407F-B76C-68EC52E6D554}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingInheritance", "UsingInheritance\UsingInheritance.csproj", "{A12182A4-0756-407F-B76C-68EC52E6D554}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingUpcastingAndDowncasting", "UsingUpcastingAndDowncasting\UsingUpcastingAndDowncasting.csproj", "{021E444D-4AA4-4798-8C34-E55ED1DAD6DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingUpcastingAndDowncasting", "UsingUpcastingAndDowncasting\UsingUpcastingAndDowncasting.csproj", "{021E444D-4AA4-4798-8C34-E55ED1DAD6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolvedExercise", "ResolvedExercise\ResolvedExercise.csproj", "{1F5914E9-6233-41CE-8536-5343EB11996A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{021E444D-4AA4-4798-8C34-E55ED1DAD6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021E444D-4AA4-4798-8C34-E55ED1DAD6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021E444D-4AA4-4798-8C34-E55ED1DAD6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5914E9-6233-41CE-8536-5343EB11996A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5914E9-6233-41CE-8536-5343EB11996A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5914E9-6233-41CE-8536-5343EB11996A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5914E9-6233-41CE-8536-5343EB11996A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
