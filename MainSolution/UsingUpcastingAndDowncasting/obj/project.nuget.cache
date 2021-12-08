@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pc5LXZYtQTTB3wQo3s3Exy7LCF24nipSj07xX55b/6rC61hJT4CRkoYUyYS+v8F+pAZsMHGcz/AVcvDD/Nay+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingUpcastingAndDowncasting\\UsingUpcastingAndDowncasting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
