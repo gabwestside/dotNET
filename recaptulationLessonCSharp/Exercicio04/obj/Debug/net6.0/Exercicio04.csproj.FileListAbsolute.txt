@@ -1,0 +1,5 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.csproj.CoreCompileInputs.cache
