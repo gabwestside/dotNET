@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProposedExercise00", "Propo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProposedExercise01", "ProposedExercise01\ProposedExercise01.csproj", "{BD89E328-703A-4A0A-A320-6E4A45A12FD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTryCatch", "UsingTryCatch\UsingTryCatch.csproj", "{5B952B4D-37E8-462E-9F82-53892813AE86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTryCatch", "UsingTryCatch\UsingTryCatch.csproj", "{5B952B4D-37E8-462E-9F82-53892813AE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingFile", "UsingFile\UsingFile.csproj", "{82178D7A-F70A-408C-84CC-AD64433DFE39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{5B952B4D-37E8-462E-9F82-53892813AE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B952B4D-37E8-462E-9F82-53892813AE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B952B4D-37E8-462E-9F82-53892813AE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82178D7A-F70A-408C-84CC-AD64433DFE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82178D7A-F70A-408C-84CC-AD64433DFE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82178D7A-F70A-408C-84CC-AD64433DFE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82178D7A-F70A-408C-84CC-AD64433DFE39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
