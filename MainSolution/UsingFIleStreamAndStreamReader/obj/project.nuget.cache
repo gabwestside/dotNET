@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q07ubdFZQ+rMLYvppaIxVBvnr+2Y/F0SFs9UM9BBxrUDkQuQgDx+bnxOyCPER7TrWYAqN/Pk1RHVdPRkCVThBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingFIleStreamAndStreamReader\\UsingFIleStreamAndStreamReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

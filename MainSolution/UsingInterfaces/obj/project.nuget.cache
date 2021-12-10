@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cQiUaDkvJTwWXYfMShi7CX1fk1jII8fjM6cLV0ffmeqJUtNPe5c+aU3vKB+rWlwKnzXSIb+hiQGuhfYIGl6E/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingInterfaces\\UsingInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\bin\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\bin\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\bin\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\bin\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\bin\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\bin\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\obj\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\obj\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\obj\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\obj\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\obj\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\obj\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFIleStreamAndStreamReader\obj\Debug\netcoreapp3.1\UsingFIleStreamAndStreamReader.genruntimeconfig.cache

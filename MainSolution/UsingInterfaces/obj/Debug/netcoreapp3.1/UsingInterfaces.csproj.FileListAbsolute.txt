@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\bin\Debug\netcoreapp3.1\UsingInterfaces.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\bin\Debug\netcoreapp3.1\UsingInterfaces.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\bin\Debug\netcoreapp3.1\UsingInterfaces.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\bin\Debug\netcoreapp3.1\UsingInterfaces.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\bin\Debug\netcoreapp3.1\UsingInterfaces.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\bin\Debug\netcoreapp3.1\UsingInterfaces.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\obj\Debug\netcoreapp3.1\UsingInterfaces.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\obj\Debug\netcoreapp3.1\UsingInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\obj\Debug\netcoreapp3.1\UsingInterfaces.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\obj\Debug\netcoreapp3.1\UsingInterfaces.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\obj\Debug\netcoreapp3.1\UsingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\obj\Debug\netcoreapp3.1\UsingInterfaces.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\obj\Debug\netcoreapp3.1\UsingInterfaces.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInterfaces\obj\Debug\netcoreapp3.1\UsingInterfaces.genruntimeconfig.cache
