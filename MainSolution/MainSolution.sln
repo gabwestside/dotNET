@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTryCatch", "UsingTryCa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingFile", "UsingFile\UsingFile.csproj", "{82178D7A-F70A-408C-84CC-AD64433DFE39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingFIleStreamAndStreamReader", "UsingFIleStreamAndStreamReader\UsingFIleStreamAndStreamReader.csproj", "{B9DD088D-874E-43FF-BE8F-E301E3110AA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingFIleStreamAndStreamReader", "UsingFIleStreamAndStreamReader\UsingFIleStreamAndStreamReader.csproj", "{B9DD088D-874E-43FF-BE8F-E301E3110AA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingInterfaces", "UsingInterfaces\UsingInterfaces.csproj", "{B43AF031-DD51-4770-BCDD-54536474E88F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingInterfaces", "UsingInterfaces\UsingInterfaces.csproj", "{B43AF031-DD51-4770-BCDD-54536474E88F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingInterface2", "UsingInterface2\UsingInterface2.csproj", "{0CA07E9D-AC05-45A6-92A2-377649B8AAFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{B43AF031-DD51-4770-BCDD-54536474E88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B43AF031-DD51-4770-BCDD-54536474E88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B43AF031-DD51-4770-BCDD-54536474E88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA07E9D-AC05-45A6-92A2-377649B8AAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA07E9D-AC05-45A6-92A2-377649B8AAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA07E9D-AC05-45A6-92A2-377649B8AAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA07E9D-AC05-45A6-92A2-377649B8AAFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
