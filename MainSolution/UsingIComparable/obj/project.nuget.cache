@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJ3nv1NPIO1BEvW9/2+pbTytwh2cywIB36QPr+IAOPm/8KW6aoW16/WT48B9AI0VbrEwQ5/WdsKyrxRdX8ZGPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingIComparable\\UsingIComparable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

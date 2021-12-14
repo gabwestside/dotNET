@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\bin\Debug\netcoreapp3.1\UsingIComparable.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\bin\Debug\netcoreapp3.1\UsingIComparable.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\bin\Debug\netcoreapp3.1\UsingIComparable.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\bin\Debug\netcoreapp3.1\UsingIComparable.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\bin\Debug\netcoreapp3.1\UsingIComparable.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\bin\Debug\netcoreapp3.1\UsingIComparable.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\obj\Debug\netcoreapp3.1\UsingIComparable.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\obj\Debug\netcoreapp3.1\UsingIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\obj\Debug\netcoreapp3.1\UsingIComparable.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\obj\Debug\netcoreapp3.1\UsingIComparable.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\obj\Debug\netcoreapp3.1\UsingIComparable.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\obj\Debug\netcoreapp3.1\UsingIComparable.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\obj\Debug\netcoreapp3.1\UsingIComparable.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingIComparable\obj\Debug\netcoreapp3.1\UsingIComparable.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2nE31HP1tUmNiP36iBF8pgArdXAMz7AkqzyxR7cUYvClzDhkASRrBwVqChrTnsLq9EJWQSW6ml17/4lRfMDeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingGenerics\\UsingGenerics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
