@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\bin\Debug\netcoreapp3.1\UsingGenerics.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\bin\Debug\netcoreapp3.1\UsingGenerics.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\bin\Debug\netcoreapp3.1\UsingGenerics.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\bin\Debug\netcoreapp3.1\UsingGenerics.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\bin\Debug\netcoreapp3.1\UsingGenerics.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\bin\Debug\netcoreapp3.1\UsingGenerics.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\obj\Debug\netcoreapp3.1\UsingGenerics.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\obj\Debug\netcoreapp3.1\UsingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\obj\Debug\netcoreapp3.1\UsingGenerics.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\obj\Debug\netcoreapp3.1\UsingGenerics.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\obj\Debug\netcoreapp3.1\UsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\obj\Debug\netcoreapp3.1\UsingGenerics.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\obj\Debug\netcoreapp3.1\UsingGenerics.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenerics\obj\Debug\netcoreapp3.1\UsingGenerics.genruntimeconfig.cache
