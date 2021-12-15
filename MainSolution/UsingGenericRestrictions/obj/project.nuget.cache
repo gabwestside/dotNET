@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "29XpeAbVFx7jE9CoIC28YQkNyqGC8pq+ywhXedW2X1J2pr9MmIAW0aBAbkRYqpezJm92DRklkNb2zN9GvP79kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingGenericRestrictions\\UsingGenericRestrictions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

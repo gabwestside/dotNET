@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingInterfaces", "UsingInt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingInterface2", "UsingInterface2\UsingInterface2.csproj", "{0CA07E9D-AC05-45A6-92A2-377649B8AAFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingIComparable", "UsingIComparable\UsingIComparable.csproj", "{45406B2C-5034-4AD2-87E5-353C14796020}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingIComparable", "UsingIComparable\UsingIComparable.csproj", "{45406B2C-5034-4AD2-87E5-353C14796020}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingGenerics", "UsingGenerics\UsingGenerics.csproj", "{A0089545-5B21-4EE2-B7BE-03F96E79EF0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingGenerics", "UsingGenerics\UsingGenerics.csproj", "{A0089545-5B21-4EE2-B7BE-03F96E79EF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingGenericRestrictions", "UsingGenericRestrictions\UsingGenericRestrictions.csproj", "{77E210B3-A462-49DC-8A50-8C253B244557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{A0089545-5B21-4EE2-B7BE-03F96E79EF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0089545-5B21-4EE2-B7BE-03F96E79EF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0089545-5B21-4EE2-B7BE-03F96E79EF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E210B3-A462-49DC-8A50-8C253B244557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E210B3-A462-49DC-8A50-8C253B244557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E210B3-A462-49DC-8A50-8C253B244557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E210B3-A462-49DC-8A50-8C253B244557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
