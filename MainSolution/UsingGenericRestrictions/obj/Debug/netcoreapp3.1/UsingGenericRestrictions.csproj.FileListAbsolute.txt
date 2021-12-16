@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\bin\Debug\netcoreapp3.1\UsingGenericRestrictions.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\bin\Debug\netcoreapp3.1\UsingGenericRestrictions.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\bin\Debug\netcoreapp3.1\UsingGenericRestrictions.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\bin\Debug\netcoreapp3.1\UsingGenericRestrictions.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\bin\Debug\netcoreapp3.1\UsingGenericRestrictions.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\bin\Debug\netcoreapp3.1\UsingGenericRestrictions.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\obj\Debug\netcoreapp3.1\UsingGenericRestrictions.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\obj\Debug\netcoreapp3.1\UsingGenericRestrictions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\obj\Debug\netcoreapp3.1\UsingGenericRestrictions.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\obj\Debug\netcoreapp3.1\UsingGenericRestrictions.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\obj\Debug\netcoreapp3.1\UsingGenericRestrictions.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\obj\Debug\netcoreapp3.1\UsingGenericRestrictions.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\obj\Debug\netcoreapp3.1\UsingGenericRestrictions.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingGenericRestrictions\obj\Debug\netcoreapp3.1\UsingGenericRestrictions.genruntimeconfig.cache

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace UsingGenericRestrictions.Entities
+namespace UsingGenericRestrictions.Services
 {
     class CalculationService
     {
