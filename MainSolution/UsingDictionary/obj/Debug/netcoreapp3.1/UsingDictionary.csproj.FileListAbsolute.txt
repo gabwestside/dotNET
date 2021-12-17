@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\bin\Debug\netcoreapp3.1\UsingDictionary.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\bin\Debug\netcoreapp3.1\UsingDictionary.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\bin\Debug\netcoreapp3.1\UsingDictionary.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\bin\Debug\netcoreapp3.1\UsingDictionary.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\bin\Debug\netcoreapp3.1\UsingDictionary.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\bin\Debug\netcoreapp3.1\UsingDictionary.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\obj\Debug\netcoreapp3.1\UsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\obj\Debug\netcoreapp3.1\UsingDictionary.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\obj\Debug\netcoreapp3.1\UsingDictionary.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\obj\Debug\netcoreapp3.1\UsingDictionary.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\obj\Debug\netcoreapp3.1\UsingDictionary.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\obj\Debug\netcoreapp3.1\UsingDictionary.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingDictionary\obj\Debug\netcoreapp3.1\UsingDictionary.genruntimeconfig.cache
