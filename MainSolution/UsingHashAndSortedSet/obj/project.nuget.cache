@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TX9ZGQm9zRrnL/27J4flFj1f+sgtan3qjZEZT0soVflkSkBr/HtkJuHfUbPmBDq5dgLQI7P4IgYtsJywPMKqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingHashAndSortedSet\\UsingHashAndSortedSet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

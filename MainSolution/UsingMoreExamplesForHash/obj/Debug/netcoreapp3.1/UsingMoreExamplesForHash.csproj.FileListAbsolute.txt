@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\bin\Debug\netcoreapp3.1\UsingMoreExamplesForHash.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\bin\Debug\netcoreapp3.1\UsingMoreExamplesForHash.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\bin\Debug\netcoreapp3.1\UsingMoreExamplesForHash.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\bin\Debug\netcoreapp3.1\UsingMoreExamplesForHash.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\bin\Debug\netcoreapp3.1\UsingMoreExamplesForHash.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\bin\Debug\netcoreapp3.1\UsingMoreExamplesForHash.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\obj\Debug\netcoreapp3.1\UsingMoreExamplesForHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\obj\Debug\netcoreapp3.1\UsingMoreExamplesForHash.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\obj\Debug\netcoreapp3.1\UsingMoreExamplesForHash.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\obj\Debug\netcoreapp3.1\UsingMoreExamplesForHash.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\obj\Debug\netcoreapp3.1\UsingMoreExamplesForHash.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\obj\Debug\netcoreapp3.1\UsingMoreExamplesForHash.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMoreExamplesForHash\obj\Debug\netcoreapp3.1\UsingMoreExamplesForHash.genruntimeconfig.cache

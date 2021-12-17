@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\bin\Debug\netcoreapp3.1\UsingHashAndSortedSet.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\bin\Debug\netcoreapp3.1\UsingHashAndSortedSet.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\bin\Debug\netcoreapp3.1\UsingHashAndSortedSet.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\bin\Debug\netcoreapp3.1\UsingHashAndSortedSet.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\bin\Debug\netcoreapp3.1\UsingHashAndSortedSet.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\bin\Debug\netcoreapp3.1\UsingHashAndSortedSet.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\obj\Debug\netcoreapp3.1\UsingHashAndSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\obj\Debug\netcoreapp3.1\UsingHashAndSortedSet.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\obj\Debug\netcoreapp3.1\UsingHashAndSortedSet.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\obj\Debug\netcoreapp3.1\UsingHashAndSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\obj\Debug\netcoreapp3.1\UsingHashAndSortedSet.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\obj\Debug\netcoreapp3.1\UsingHashAndSortedSet.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashAndSortedSet\obj\Debug\netcoreapp3.1\UsingHashAndSortedSet.genruntimeconfig.cache
