@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\bin\Debug\netcoreapp3.1\UsingHashCode.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\bin\Debug\netcoreapp3.1\UsingHashCode.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\bin\Debug\netcoreapp3.1\UsingHashCode.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\bin\Debug\netcoreapp3.1\UsingHashCode.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\bin\Debug\netcoreapp3.1\UsingHashCode.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\bin\Debug\netcoreapp3.1\UsingHashCode.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\obj\Debug\netcoreapp3.1\UsingHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\obj\Debug\netcoreapp3.1\UsingHashCode.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\obj\Debug\netcoreapp3.1\UsingHashCode.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\obj\Debug\netcoreapp3.1\UsingHashCode.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\obj\Debug\netcoreapp3.1\UsingHashCode.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\obj\Debug\netcoreapp3.1\UsingHashCode.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingHashCode\obj\Debug\netcoreapp3.1\UsingHashCode.genruntimeconfig.cache
