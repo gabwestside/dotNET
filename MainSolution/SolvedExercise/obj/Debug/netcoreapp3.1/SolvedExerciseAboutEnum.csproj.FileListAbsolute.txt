@@ -12,3 +12,17 @@ C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\MainSolut
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.dll
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.pdb
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.genruntimeconfig.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\bin\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\bin\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\bin\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\bin\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\bin\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\bin\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\SolvedExercise\obj\Debug\netcoreapp3.1\SolvedExerciseAboutEnum.genruntimeconfig.cache

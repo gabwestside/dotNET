@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\bin\Debug\netcoreapp3.1\UsingTryCatch.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\bin\Debug\netcoreapp3.1\UsingTryCatch.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\bin\Debug\netcoreapp3.1\UsingTryCatch.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\bin\Debug\netcoreapp3.1\UsingTryCatch.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\bin\Debug\netcoreapp3.1\UsingTryCatch.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\bin\Debug\netcoreapp3.1\UsingTryCatch.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\obj\Debug\netcoreapp3.1\UsingTryCatch.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\obj\Debug\netcoreapp3.1\UsingTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\obj\Debug\netcoreapp3.1\UsingTryCatch.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\obj\Debug\netcoreapp3.1\UsingTryCatch.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\obj\Debug\netcoreapp3.1\UsingTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\obj\Debug\netcoreapp3.1\UsingTryCatch.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\obj\Debug\netcoreapp3.1\UsingTryCatch.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingTryCatch\obj\Debug\netcoreapp3.1\UsingTryCatch.genruntimeconfig.cache

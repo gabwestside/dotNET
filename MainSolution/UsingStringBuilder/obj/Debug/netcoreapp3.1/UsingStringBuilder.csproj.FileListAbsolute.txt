@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.genruntimeconfig.cache

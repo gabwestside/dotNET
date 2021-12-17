@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\bin\Debug\netcoreapp3.1\UsingInheritance.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\bin\Debug\netcoreapp3.1\UsingInheritance.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\bin\Debug\netcoreapp3.1\UsingInheritance.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\bin\Debug\netcoreapp3.1\UsingInheritance.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\bin\Debug\netcoreapp3.1\UsingInheritance.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\bin\Debug\netcoreapp3.1\UsingInheritance.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\obj\Debug\netcoreapp3.1\UsingInheritance.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\obj\Debug\netcoreapp3.1\UsingInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\obj\Debug\netcoreapp3.1\UsingInheritance.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\obj\Debug\netcoreapp3.1\UsingInheritance.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\obj\Debug\netcoreapp3.1\UsingInheritance.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\obj\Debug\netcoreapp3.1\UsingInheritance.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\obj\Debug\netcoreapp3.1\UsingInheritance.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingInheritance\obj\Debug\netcoreapp3.1\UsingInheritance.genruntimeconfig.cache

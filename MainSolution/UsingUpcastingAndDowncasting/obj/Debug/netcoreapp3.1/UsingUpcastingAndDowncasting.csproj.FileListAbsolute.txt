@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingUpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UsingUpcastingAndDowncasting.genruntimeconfig.cache

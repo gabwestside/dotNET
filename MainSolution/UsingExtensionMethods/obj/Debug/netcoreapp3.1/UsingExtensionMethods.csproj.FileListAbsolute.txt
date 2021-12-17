@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\obj\Debug\netcoreapp3.1\UsingExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\obj\Debug\netcoreapp3.1\UsingExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\obj\Debug\netcoreapp3.1\UsingExtensionMethods.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\obj\Debug\netcoreapp3.1\UsingExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\bin\Debug\netcoreapp3.1\UsingExtensionMethods.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\bin\Debug\netcoreapp3.1\UsingExtensionMethods.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\bin\Debug\netcoreapp3.1\UsingExtensionMethods.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\bin\Debug\netcoreapp3.1\UsingExtensionMethods.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\bin\Debug\netcoreapp3.1\UsingExtensionMethods.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\bin\Debug\netcoreapp3.1\UsingExtensionMethods.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\obj\Debug\netcoreapp3.1\UsingExtensionMethods.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\obj\Debug\netcoreapp3.1\UsingExtensionMethods.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingExtensionMethods\obj\Debug\netcoreapp3.1\UsingExtensionMethods.genruntimeconfig.cache
