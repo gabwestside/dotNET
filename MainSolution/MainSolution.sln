@@ -35,17 +35,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingGenerics", "UsingGener
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingGenericRestrictions", "UsingGenericRestrictions\UsingGenericRestrictions.csproj", "{77E210B3-A462-49DC-8A50-8C253B244557}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingHashCode", "UsingHashCode\UsingHashCode.csproj", "{D47FEA64-75A4-411D-A822-46CC98C1911C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingHashCode", "UsingHashCode\UsingHashCode.csproj", "{D47FEA64-75A4-411D-A822-46CC98C1911C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingHashAndSortedSet", "UsingHashAndSortedSet\UsingHashAndSortedSet.csproj", "{5383C0EF-7E10-4FA5-8170-2F3BB5E4ADC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingHashAndSortedSet", "UsingHashAndSortedSet\UsingHashAndSortedSet.csproj", "{5383C0EF-7E10-4FA5-8170-2F3BB5E4ADC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMoreExamplesForHash", "UsingMoreExamplesForHash\UsingMoreExamplesForHash.csproj", "{648B4A57-08C8-4FC2-952A-7B1FA5BA5B3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingMoreExamplesForHash", "UsingMoreExamplesForHash\UsingMoreExamplesForHash.csproj", "{648B4A57-08C8-4FC2-952A-7B1FA5BA5B3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProposedExercise02", "ProposedExercise02\ProposedExercise02.csproj", "{8393532A-279D-4C78-9564-1699D596A0B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProposedExercise02", "ProposedExercise02\ProposedExercise02.csproj", "{8393532A-279D-4C78-9564-1699D596A0B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDictionary", "UsingDictionary\UsingDictionary.csproj", "{CE5A2A36-5B62-4230-B106-FB6BB8655A03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDictionary", "UsingDictionary\UsingDictionary.csproj", "{CE5A2A36-5B62-4230-B106-FB6BB8655A03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingExtensionMethods", "UsingExtensionMethods\UsingExtensionMethods.csproj", "{4C7A2D1F-69E6-4A22-936B-DD4FFCB9F12F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingExtensionMethods", "UsingExtensionMethods\UsingExtensionMethods.csproj", "{4C7A2D1F-69E6-4A22-936B-DD4FFCB9F12F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingComparison", "UsingComparison\UsingComparison.csproj", "{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{4C7A2D1F-69E6-4A22-936B-DD4FFCB9F12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C7A2D1F-69E6-4A22-936B-DD4FFCB9F12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C7A2D1F-69E6-4A22-936B-DD4FFCB9F12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
