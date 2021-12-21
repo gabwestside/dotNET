@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDictionary", "UsingDic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingExtensionMethods", "UsingExtensionMethods\UsingExtensionMethods.csproj", "{4C7A2D1F-69E6-4A22-936B-DD4FFCB9F12F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingComparison", "UsingComparison\UsingComparison.csproj", "{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingComparison", "UsingComparison\UsingComparison.csproj", "{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingFunctionalParadigm", "UsingFunctionalParadigm\UsingFunctionalParadigm.csproj", "{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

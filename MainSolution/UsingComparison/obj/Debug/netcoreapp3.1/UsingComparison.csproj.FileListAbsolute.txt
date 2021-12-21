@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\bin\Debug\netcoreapp3.1\UsingComparison.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\bin\Debug\netcoreapp3.1\UsingComparison.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\bin\Debug\netcoreapp3.1\UsingComparison.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\bin\Debug\netcoreapp3.1\UsingComparison.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\bin\Debug\netcoreapp3.1\UsingComparison.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\bin\Debug\netcoreapp3.1\UsingComparison.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\obj\Debug\netcoreapp3.1\UsingComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\obj\Debug\netcoreapp3.1\UsingComparison.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\obj\Debug\netcoreapp3.1\UsingComparison.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\obj\Debug\netcoreapp3.1\UsingComparison.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\obj\Debug\netcoreapp3.1\UsingComparison.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\obj\Debug\netcoreapp3.1\UsingComparison.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingComparison\obj\Debug\netcoreapp3.1\UsingComparison.genruntimeconfig.cache

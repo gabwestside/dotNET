@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\bin\Debug\netcoreapp3.1\UsingFunctionalParadigm.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\bin\Debug\netcoreapp3.1\UsingFunctionalParadigm.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\bin\Debug\netcoreapp3.1\UsingFunctionalParadigm.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\bin\Debug\netcoreapp3.1\UsingFunctionalParadigm.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\bin\Debug\netcoreapp3.1\UsingFunctionalParadigm.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\bin\Debug\netcoreapp3.1\UsingFunctionalParadigm.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\obj\Debug\netcoreapp3.1\UsingFunctionalParadigm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\obj\Debug\netcoreapp3.1\UsingFunctionalParadigm.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\obj\Debug\netcoreapp3.1\UsingFunctionalParadigm.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\obj\Debug\netcoreapp3.1\UsingFunctionalParadigm.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\obj\Debug\netcoreapp3.1\UsingFunctionalParadigm.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\obj\Debug\netcoreapp3.1\UsingFunctionalParadigm.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunctionalParadigm\obj\Debug\netcoreapp3.1\UsingFunctionalParadigm.genruntimeconfig.cache
