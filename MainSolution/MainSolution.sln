@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionDelegates", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMulticastDelegates", "UsingMulticastDelegates\UsingMulticastDelegates.csproj", "{B4300061-4715-4020-8265-B1E5F3650615}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingPredicate", "UsingPredicate\UsingPredicate.csproj", "{489616F4-D0AA-4428-BC22-B7992E8BB96C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingAction", "UsingAction\UsingAction.csproj", "{1849A5AB-2916-4D9B-9541-0231979DF054}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{B4300061-4715-4020-8265-B1E5F3650615}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4300061-4715-4020-8265-B1E5F3650615}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4300061-4715-4020-8265-B1E5F3650615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489616F4-D0AA-4428-BC22-B7992E8BB96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489616F4-D0AA-4428-BC22-B7992E8BB96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489616F4-D0AA-4428-BC22-B7992E8BB96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489616F4-D0AA-4428-BC22-B7992E8BB96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1849A5AB-2916-4D9B-9541-0231979DF054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1849A5AB-2916-4D9B-9541-0231979DF054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1849A5AB-2916-4D9B-9541-0231979DF054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1849A5AB-2916-4D9B-9541-0231979DF054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

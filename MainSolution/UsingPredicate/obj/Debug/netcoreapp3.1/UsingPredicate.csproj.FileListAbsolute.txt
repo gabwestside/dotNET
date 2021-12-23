@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\bin\Debug\netcoreapp3.1\UsingPredicate.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\bin\Debug\netcoreapp3.1\UsingPredicate.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\bin\Debug\netcoreapp3.1\UsingPredicate.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\bin\Debug\netcoreapp3.1\UsingPredicate.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\bin\Debug\netcoreapp3.1\UsingPredicate.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\bin\Debug\netcoreapp3.1\UsingPredicate.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\obj\Debug\netcoreapp3.1\UsingPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\obj\Debug\netcoreapp3.1\UsingPredicate.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\obj\Debug\netcoreapp3.1\UsingPredicate.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\obj\Debug\netcoreapp3.1\UsingPredicate.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\obj\Debug\netcoreapp3.1\UsingPredicate.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\obj\Debug\netcoreapp3.1\UsingPredicate.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingPredicate\obj\Debug\netcoreapp3.1\UsingPredicate.genruntimeconfig.cache

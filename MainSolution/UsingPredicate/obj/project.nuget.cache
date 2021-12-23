@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCmQXtPgYR86RVp0DNkd6CVcSJzDjtV4eH1zztJSWBL4hCcNuDVtFJtZnjMaF1oKxSfa1fFhio+g9H8jckYW2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingPredicate\\UsingPredicate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
