@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\bin\Debug\netcoreapp3.1\UsingMulticastDelegates.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\bin\Debug\netcoreapp3.1\UsingMulticastDelegates.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\bin\Debug\netcoreapp3.1\UsingMulticastDelegates.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\bin\Debug\netcoreapp3.1\UsingMulticastDelegates.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\bin\Debug\netcoreapp3.1\UsingMulticastDelegates.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\bin\Debug\netcoreapp3.1\UsingMulticastDelegates.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\obj\Debug\netcoreapp3.1\UsingMulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\obj\Debug\netcoreapp3.1\UsingMulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\obj\Debug\netcoreapp3.1\UsingMulticastDelegates.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\obj\Debug\netcoreapp3.1\UsingMulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\obj\Debug\netcoreapp3.1\UsingMulticastDelegates.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\obj\Debug\netcoreapp3.1\UsingMulticastDelegates.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingMulticastDelegates\obj\Debug\netcoreapp3.1\UsingMulticastDelegates.genruntimeconfig.cache

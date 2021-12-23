@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4QIx4doN1YaqTu/2fJ2KDj+XT2UyIIeoiR5V8wYjvbN8Y5PATenDVvBesV7vdQPejSGW4r6rQk275FUsaMFYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingMulticastDelegates\\UsingMulticastDelegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
