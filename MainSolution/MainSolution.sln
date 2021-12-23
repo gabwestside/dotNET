@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingExtensionMethods", "Us
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingComparison", "UsingComparison\UsingComparison.csproj", "{513BC75F-7A35-43EA-B6E9-D48ACD4E6207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingFunctionalParadigm", "UsingFunctionalParadigm\UsingFunctionalParadigm.csproj", "{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingFunctionalParadigm", "UsingFunctionalParadigm\UsingFunctionalParadigm.csproj", "{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionDelegates", "IntroductionDelegates\IntroductionDelegates.csproj", "{1C9027C1-F59C-407E-A6AD-0972254D0783}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B76888AB-CBB2-40B0-9B14-3AB3D4EECD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9027C1-F59C-407E-A6AD-0972254D0783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9027C1-F59C-407E-A6AD-0972254D0783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9027C1-F59C-407E-A6AD-0972254D0783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9027C1-F59C-407E-A6AD-0972254D0783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

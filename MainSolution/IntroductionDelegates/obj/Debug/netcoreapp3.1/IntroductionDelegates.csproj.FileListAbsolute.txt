@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\bin\Debug\netcoreapp3.1\IntroductionDelegates.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\bin\Debug\netcoreapp3.1\IntroductionDelegates.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\bin\Debug\netcoreapp3.1\IntroductionDelegates.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\bin\Debug\netcoreapp3.1\IntroductionDelegates.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\bin\Debug\netcoreapp3.1\IntroductionDelegates.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\bin\Debug\netcoreapp3.1\IntroductionDelegates.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\obj\Debug\netcoreapp3.1\IntroductionDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\obj\Debug\netcoreapp3.1\IntroductionDelegates.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\obj\Debug\netcoreapp3.1\IntroductionDelegates.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\obj\Debug\netcoreapp3.1\IntroductionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\obj\Debug\netcoreapp3.1\IntroductionDelegates.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\obj\Debug\netcoreapp3.1\IntroductionDelegates.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\IntroductionDelegates\obj\Debug\netcoreapp3.1\IntroductionDelegates.genruntimeconfig.cache
