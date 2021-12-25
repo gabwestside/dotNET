@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\.NET\tete\bin\Debug\net6.0\tete.exe
+C:\Users\USUARIO\Documents\.NET\tete\bin\Debug\net6.0\tete.deps.json
+C:\Users\USUARIO\Documents\.NET\tete\bin\Debug\net6.0\tete.runtimeconfig.json
+C:\Users\USUARIO\Documents\.NET\tete\bin\Debug\net6.0\tete.dll
+C:\Users\USUARIO\Documents\.NET\tete\bin\Debug\net6.0\ref\tete.dll
+C:\Users\USUARIO\Documents\.NET\tete\bin\Debug\net6.0\tete.pdb
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\tete.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\tete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\tete.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\tete.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\tete.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\tete.dll
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\ref\tete.dll
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\tete.pdb
+C:\Users\USUARIO\Documents\.NET\tete\obj\Debug\net6.0\tete.genruntimeconfig.cache
