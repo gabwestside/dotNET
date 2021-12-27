@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\bin\Debug\netcoreapp3.1\LinqDemo2.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo2\obj\Debug\netcoreapp3.1\LinqDemo2.genruntimeconfig.cache
