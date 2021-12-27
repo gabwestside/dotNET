@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.genruntimeconfig.cache

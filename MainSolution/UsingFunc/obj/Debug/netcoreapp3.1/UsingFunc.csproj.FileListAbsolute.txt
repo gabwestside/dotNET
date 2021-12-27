@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\bin\Debug\netcoreapp3.1\UsingFunc.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\bin\Debug\netcoreapp3.1\UsingFunc.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\bin\Debug\netcoreapp3.1\UsingFunc.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\bin\Debug\netcoreapp3.1\UsingFunc.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\bin\Debug\netcoreapp3.1\UsingFunc.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\bin\Debug\netcoreapp3.1\UsingFunc.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\obj\Debug\netcoreapp3.1\UsingFunc.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\obj\Debug\netcoreapp3.1\UsingFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\obj\Debug\netcoreapp3.1\UsingFunc.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\obj\Debug\netcoreapp3.1\UsingFunc.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\obj\Debug\netcoreapp3.1\UsingFunc.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\obj\Debug\netcoreapp3.1\UsingFunc.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\obj\Debug\netcoreapp3.1\UsingFunc.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingFunc\obj\Debug\netcoreapp3.1\UsingFunc.genruntimeconfig.cache

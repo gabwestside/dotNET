@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\bin\Debug\netcoreapp3.1\UsingLinqConsult.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\bin\Debug\netcoreapp3.1\UsingLinqConsult.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\bin\Debug\netcoreapp3.1\UsingLinqConsult.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\bin\Debug\netcoreapp3.1\UsingLinqConsult.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\bin\Debug\netcoreapp3.1\UsingLinqConsult.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\bin\Debug\netcoreapp3.1\UsingLinqConsult.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\obj\Debug\netcoreapp3.1\UsingLinqConsult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\obj\Debug\netcoreapp3.1\UsingLinqConsult.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\obj\Debug\netcoreapp3.1\UsingLinqConsult.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\obj\Debug\netcoreapp3.1\UsingLinqConsult.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\obj\Debug\netcoreapp3.1\UsingLinqConsult.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\obj\Debug\netcoreapp3.1\UsingLinqConsult.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\MainSolution\UsingLinqConsult\obj\Debug\netcoreapp3.1\UsingLinqConsult.genruntimeconfig.cache

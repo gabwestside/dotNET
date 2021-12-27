@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UsingLinqConsult/1.0.0": {
+        "runtime": {
+          "UsingLinqConsult.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingLinqConsult/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

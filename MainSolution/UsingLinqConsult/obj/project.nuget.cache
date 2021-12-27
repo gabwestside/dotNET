@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UnlGZo16wCMtnhtqctRbWAvNZaGdW4Ev9flrtTT5d4SAHVN/dMmThUc8JmETga8V3zWfjkhEdTV9BPpL69rL1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\MainSolution\\UsingLinqConsult\\UsingLinqConsult.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
