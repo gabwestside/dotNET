@@ -7,6 +7,14 @@ namespace LinqDemo
 {
     class Program
     {
+        // Where(operação "filter" / "restrição")
+        // Select(operação "map" / "projeção")
+        // OrderBy, OrderByDescending, ThenBy, ThenByDescending
+        // Skip, Take
+        // First, FirstOrDefault Last, LastOrDefault, Single, SingleOrDefault
+        // Max, Min, Count, Sum, Average, Aggregate(operação "reduce")
+        // GroupBy
+
         static void Print<T>(string message, IEnumerable<T> collection)
         {
             Console.WriteLine(message);
