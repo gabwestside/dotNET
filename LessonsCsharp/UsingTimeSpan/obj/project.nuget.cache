@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xndmgnutjIi8y+FqUIpH/OgBmp9s0y5qp5V8rLBjEG/8U4jTH9C0SttrEQupgrByJJh6KqAHfkECmk+/G36l+Q==",
+  "dgSpecHash": "sfxnx1mF8Pe7nBsYd6IbHnD17Ip6KfT5UQPJQXi5OBXGIYvLJcbWB2/eS3HBoH8Hoida4lBBhNbN9gCa8zUR4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\UsingTimeSpan\\UsingTimeSpan.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\UsingTimeSpan\\UsingTimeSpan.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

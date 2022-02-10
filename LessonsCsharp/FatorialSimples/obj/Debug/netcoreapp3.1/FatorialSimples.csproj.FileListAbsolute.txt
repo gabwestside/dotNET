@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\bin\Debug\netcoreapp3.1\FatorialSimples.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\bin\Debug\netcoreapp3.1\FatorialSimples.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\bin\Debug\netcoreapp3.1\FatorialSimples.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\bin\Debug\netcoreapp3.1\FatorialSimples.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\bin\Debug\netcoreapp3.1\FatorialSimples.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\bin\Debug\netcoreapp3.1\FatorialSimples.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\obj\Debug\netcoreapp3.1\FatorialSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\obj\Debug\netcoreapp3.1\FatorialSimples.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\obj\Debug\netcoreapp3.1\FatorialSimples.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\obj\Debug\netcoreapp3.1\FatorialSimples.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\obj\Debug\netcoreapp3.1\FatorialSimples.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\obj\Debug\netcoreapp3.1\FatorialSimples.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FatorialSimples\obj\Debug\netcoreapp3.1\FatorialSimples.genruntimeconfig.cache

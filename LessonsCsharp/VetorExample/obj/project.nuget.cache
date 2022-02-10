@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WE7m1AHHkNIizd5JZl6nS3SyLzTP5tagrVozPqr7VDK1xJ4QvnpaJMWKeAvhOT1zAUrD54IPsYAyyvbMbWIBUQ==",
+  "dgSpecHash": "e3hotsIFnTUxeY0jHml4s0iHoKd/8lV9mmYwfRNc3Pz4cKC4XW7OokcUe2bsOy+ObzeAkdRiDFOn70gndiWCDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\Coding-Stuff\\GitClones\\dotNET\\LessonsCsharp\\VetorExample\\VetorExample.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\VetorExample\\VetorExample.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
