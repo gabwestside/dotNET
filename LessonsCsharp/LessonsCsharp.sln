@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormatingDate", "FormatingD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTimeSpan", "UsingTimeSpan\UsingTimeSpan.csproj", "{6D307793-95C1-499B-9205-93D0830DBFB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FatorialSimples", "FatorialSimples\FatorialSimples.csproj", "{ED5779FD-8198-44EB-BB29-BD0F3E759A28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FatorialSimples", "FatorialSimples\FatorialSimples.csproj", "{ED5779FD-8198-44EB-BB29-BD0F3E759A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactorial", "SimpleFactorial\SimpleFactorial.csproj", "{77E73841-9648-43A4-9F37-5034300C6ED0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{ED5779FD-8198-44EB-BB29-BD0F3E759A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED5779FD-8198-44EB-BB29-BD0F3E759A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED5779FD-8198-44EB-BB29-BD0F3E759A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E73841-9648-43A4-9F37-5034300C6ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E73841-9648-43A4-9F37-5034300C6ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E73841-9648-43A4-9F37-5034300C6ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E73841-9648-43A4-9F37-5034300C6ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
