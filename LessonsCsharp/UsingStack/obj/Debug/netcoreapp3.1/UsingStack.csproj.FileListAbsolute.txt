@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\bin\Debug\netcoreapp3.1\UsingStack.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.csproj.AssemblyReference.cache

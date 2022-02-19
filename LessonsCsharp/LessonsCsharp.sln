@@ -43,7 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTimeSpan", "UsingTimeS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FatorialSimples", "FatorialSimples\FatorialSimples.csproj", "{ED5779FD-8198-44EB-BB29-BD0F3E759A28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactorial", "SimpleFactorial\SimpleFactorial.csproj", "{77E73841-9648-43A4-9F37-5034300C6ED0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactorial", "SimpleFactorial\SimpleFactorial.csproj", "{77E73841-9648-43A4-9F37-5034300C6ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingPilha", "UsingPilha\UsingPilha.csproj", "{28E98BEE-153C-46C0-B8DB-1FA8BC79C4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStack", "UsingStack\UsingStack.csproj", "{666B00B3-DDC6-4E78-931E-43DCA939751B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{77E73841-9648-43A4-9F37-5034300C6ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77E73841-9648-43A4-9F37-5034300C6ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77E73841-9648-43A4-9F37-5034300C6ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E98BEE-153C-46C0-B8DB-1FA8BC79C4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E98BEE-153C-46C0-B8DB-1FA8BC79C4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E98BEE-153C-46C0-B8DB-1FA8BC79C4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E98BEE-153C-46C0-B8DB-1FA8BC79C4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666B00B3-DDC6-4E78-931E-43DCA939751B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666B00B3-DDC6-4E78-931E-43DCA939751B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666B00B3-DDC6-4E78-931E-43DCA939751B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666B00B3-DDC6-4E78-931E-43DCA939751B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

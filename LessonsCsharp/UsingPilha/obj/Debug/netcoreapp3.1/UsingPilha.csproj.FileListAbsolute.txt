@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\bin\Debug\netcoreapp3.1\UsingPilha.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\bin\Debug\netcoreapp3.1\UsingPilha.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\bin\Debug\netcoreapp3.1\UsingPilha.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\bin\Debug\netcoreapp3.1\UsingPilha.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\bin\Debug\netcoreapp3.1\UsingPilha.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\bin\Debug\netcoreapp3.1\UsingPilha.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\obj\Debug\netcoreapp3.1\UsingPilha.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\obj\Debug\netcoreapp3.1\UsingPilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\obj\Debug\netcoreapp3.1\UsingPilha.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\obj\Debug\netcoreapp3.1\UsingPilha.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\obj\Debug\netcoreapp3.1\UsingPilha.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\obj\Debug\netcoreapp3.1\UsingPilha.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\obj\Debug\netcoreapp3.1\UsingPilha.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingPilha\obj\Debug\netcoreapp3.1\UsingPilha.genruntimeconfig.cache
