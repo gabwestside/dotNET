@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace UsingStack
 {
@@ -6,16 +7,27 @@ namespace UsingStack
     {
         static void Main(string[] args)
         {
-            var operationHistoric = new OperationHistoric("Gab");
+            // var operationHistoric = new OperationHistoric("Gab");
 
-            operationHistoric.Add("Meditate");
-            operationHistoric.Add("See College Class");
-            operationHistoric.Add("Study about Data Structures");
-            operationHistoric.Add("Pratice English");
+            Stack<string> task = new Stack<string>();
+            task.Push("Meditate");
+            task.Push("See College Class");
+            task.Push("Study about Data Structures");
+            task.Push("Pratice English");
 
-            operationHistoric.Undo();
+            task.Pop();
 
-            operationHistoric.LastOperationReturn();
+            // operationHistoric.Undo();
+
+            // operationHistoric.LastOperationReturn();
+
+            int count = task.Count;
+            Console.WriteLine(count);
+
+            foreach (string tasks in task)
+            {
+                Console.WriteLine(tasks);
+            }
 
             Console.ReadLine();
         }
