@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\DioExercise3\\DioExercise3.csproj",
-      "projectName": "DioExercise3",
-      "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\DioExercise3\\DioExercise3.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\DioExercise3\\DioExercise04.csproj",
+      "projectName": "DioExercise04",
+      "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\DioExercise3\\DioExercise04.csproj",
       "packagesPath": "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\DioExercise3\\obj\\",
       "projectStyle": "PackageReference",

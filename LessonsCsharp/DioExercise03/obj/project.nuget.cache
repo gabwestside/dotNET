@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtZ7OxncVHevVAcCX9DCCnkQ0rtS8uXT2I4JTmPHVzjbDNAEbjc/+CYLU+cgV61LQ880NH2Y7GnoUK+fstVldg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\DioExercise03\\DioExercise03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
