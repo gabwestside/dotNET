@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JD9jwWMrjMBUmVk8Bs0vCuk7cXKCEthq070MuDJjAWsi1vzEpQi+mvw6LlIF4boC+maqwmAeMqwWVYkPwruiLQ==",
+  "dgSpecHash": "yzr8jtv2LFmy7GmTznx+KuexLCe9Vbd3tz++SyTQt0KkfOVU9shSimz0vahG1XoAZE2CwgEuEVbyfF+QwDZexQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\SimpleFactorial\\SimpleFactorial.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\SimpleFactorial\\SimpleFactorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

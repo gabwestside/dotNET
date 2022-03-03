@@ -1,0 +1,13 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\bin\Debug\netcoreapp3.1\DioExercise01.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\bin\Debug\netcoreapp3.1\DioExercise01.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\bin\Debug\netcoreapp3.1\DioExercise01.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\bin\Debug\netcoreapp3.1\DioExercise01.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\bin\Debug\netcoreapp3.1\DioExercise01.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\bin\Debug\netcoreapp3.1\DioExercise01.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\obj\Debug\netcoreapp3.1\DioExercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\obj\Debug\netcoreapp3.1\DioExercise01.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\obj\Debug\netcoreapp3.1\DioExercise01.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\obj\Debug\netcoreapp3.1\DioExercise01.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\obj\Debug\netcoreapp3.1\DioExercise01.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\obj\Debug\netcoreapp3.1\DioExercise01.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise01\obj\Debug\netcoreapp3.1\DioExercise01.genruntimeconfig.cache

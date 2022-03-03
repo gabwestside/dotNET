@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kxYHvVhKO+tdh6NBx86TATKe+m+YmIa0lxVhPdGwEUArF4jAlH8KezR+1kdy0Rle82cXvrtrgqBys6gZizgjPQ==",
+  "dgSpecHash": "Oi7DlfeNlPcv0/TdtZ5Q3PvV69LHuGZg/7gutgZZyLnCPZRaZ2LdyaT/2Sy9P6kmVWodOW/FYZBGPVVtdGSMWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\WhileLessons\\WhileLessons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }
