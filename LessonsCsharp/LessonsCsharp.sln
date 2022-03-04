@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DioExercise02", "DioExercis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DioExercise04", "DioExercise3\DioExercise04.csproj", "{9AC99BF4-66FC-4DF6-A440-169A326CAF03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioExercise03", "DioExercise03\DioExercise03.csproj", "{3D4B866E-0597-4A0A-9D84-8A65CBEC1AE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DioExercise03", "DioExercise03\DioExercise03.csproj", "{3D4B866E-0597-4A0A-9D84-8A65CBEC1AE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioExercise05", "DioExercise05\DioExercise05.csproj", "{417CF13A-BBDB-43AF-B203-D7F9A6044E8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DioExercise05", "DioExercise05\DioExercise05.csproj", "{417CF13A-BBDB-43AF-B203-D7F9A6044E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioExercise06", "DioExercise06\DioExercise06.csproj", "{BA60CA89-C3FE-4C31-9789-81BAF1361FE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{417CF13A-BBDB-43AF-B203-D7F9A6044E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417CF13A-BBDB-43AF-B203-D7F9A6044E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417CF13A-BBDB-43AF-B203-D7F9A6044E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA60CA89-C3FE-4C31-9789-81BAF1361FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA60CA89-C3FE-4C31-9789-81BAF1361FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA60CA89-C3FE-4C31-9789-81BAF1361FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA60CA89-C3FE-4C31-9789-81BAF1361FE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

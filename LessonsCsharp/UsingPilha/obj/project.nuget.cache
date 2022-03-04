@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ORveQTxOwI8GtMVnCgy8zTnar1KtguqtCfviAmXi4nuhe2UYIKUdlRUnwjcJOnbXgYGfXL0x7IA+mQLny2DRoQ==",
+  "dgSpecHash": "8vB0r8Vaa3bhyx7/AyfBQBCL11jMxwH4RUQ7o6lR582E8hC5l9RYBJXiKj/bV2zlhHmkEaVfxgiCMUdYI6KQQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\UsingPilha\\UsingPilha.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\UsingPilha\\UsingPilha.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

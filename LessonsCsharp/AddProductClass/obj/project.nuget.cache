@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dme/xWm+0it+YfL/TSpJltxxWj0FHcW4+wkqOnnLz6D5rbBrtO2gGTGg0TyHeniFcAyke+35d7S3/PSHo4jAPA==",
+  "dgSpecHash": "/+ePm7l6fQdkiNWmcNyJxcmwFCmIF4cuO/5uZz8X1/fdDSsYXjk1+aapgnwoq6SNiLqAGdOVTLWZeq9LEq594A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\AddProductClass\\AddProductClass.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\AddProductClass\\AddProductClass.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

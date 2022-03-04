@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSGP3zj146KWeUVtjlGzgPX0ON+QiXrBKllN9GGhQdRiv3Kj+pUtXXixljuBr6tPWDA2YWnkYuBEBIgJyQ0XlQ==",
+  "dgSpecHash": "QSy3mQt4BEX5fuanYxkao09AELYWnOW9CTOcsAU7ov78PVdmClcPW0/o8oRLYx3ZZr6Ej3ChyaRLwuOycgvhPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao15\\ExercicioDeFixacao15.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\ExercicioDeFixacao15\\ExercicioDeFixacao15.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
