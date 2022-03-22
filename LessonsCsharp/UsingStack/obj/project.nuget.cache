@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yOV3aa47ecdQdCY43Rr1+vXqpIG8jIXAZBIRcsNY8ZycRP16DEq329DPwdVc73QCBwoIsO0n9+iCLzbrYmuUDw==",
+  "dgSpecHash": "tqlleyvnGdtX9blYsay2znm6eKvBzWafCY3q7Nxa2G5bEXjaUn8vDqX7IU952S8B7QYoqqCZWeui+DyMfhIT8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\UsingStack\\UsingStack.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\UsingStack\\UsingStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

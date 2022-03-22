@@ -1,0 +1,14 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\bin\Debug\netcoreapp3.1\DioExercise08.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\bin\Debug\netcoreapp3.1\DioExercise08.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\bin\Debug\netcoreapp3.1\DioExercise08.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\bin\Debug\netcoreapp3.1\DioExercise08.runtimeconfig.dev.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\bin\Debug\netcoreapp3.1\DioExercise08.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\bin\Debug\netcoreapp3.1\DioExercise08.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\obj\Debug\netcoreapp3.1\DioExercise08.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\obj\Debug\netcoreapp3.1\DioExercise08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\obj\Debug\netcoreapp3.1\DioExercise08.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\obj\Debug\netcoreapp3.1\DioExercise08.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\obj\Debug\netcoreapp3.1\DioExercise08.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\obj\Debug\netcoreapp3.1\DioExercise08.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\obj\Debug\netcoreapp3.1\DioExercise08.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise08\obj\Debug\netcoreapp3.1\DioExercise08.genruntimeconfig.cache

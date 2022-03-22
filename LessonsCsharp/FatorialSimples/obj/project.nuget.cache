@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/xL5qbmHKwSK1QfZyyjitGni3laraqYMDPmncP5cK3ePxIM2WLQysVZrmltdKwMBVOsqd+KL+A1cCoHvdDYpeg==",
+  "dgSpecHash": "y9CkGbX3O6avBL/JZMxBpzeNITtuUGeiOQf7iU6yUohkPL7nONGB/UsNbe7dpy/HgA0XCCkuh/ACkCAV8ErhrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\FatorialSimples\\FatorialSimples.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\FatorialSimples\\FatorialSimples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }
