@@ -26,5 +26,10 @@ namespace WestsideRPGWithVSCode.src.Entities
                 " " +
                 this.HeroType;
         }
+
+        public virtual string Attack()
+        {
+            return this.Name + " strikes with your sword.";
+        }
     }
 }

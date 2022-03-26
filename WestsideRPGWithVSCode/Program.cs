@@ -8,7 +8,7 @@ namespace WestsideRPGWithVSCode
         static void Main(string[] args)
         {
             Hero hero = new Hero();
-            Hero boss = new Hero("Nemesis", 10, "Wizard");
+            Wizard wizard = new Wizard("Nemesis", 10, "Wizard");
 
             Console.WriteLine($"Hero's infos");
             Console.Write($"Name: ");
@@ -28,11 +28,11 @@ namespace WestsideRPGWithVSCode
 
             Console.WriteLine($"");
 
-            Console.WriteLine($"{hero}");
+            Console.WriteLine($"{hero.Attack()}");
 
             Console.WriteLine($"");
 
-            Console.WriteLine($"{boss}");
+            Console.WriteLine($"{wizard.Attack(3)}");
         }
     }
 }
