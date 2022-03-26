@@ -2,10 +2,20 @@ namespace WestsideRPGWithVSCode.src.Entities
 {
     public class Arus
     {
-        public string Name { get; set; }
+        public Arus(string Name, int Level, string HeroType)
+        {
+            this.Name = Name;
+            this.Level = Level;
+            this.HeroType = HeroType;
+        }
 
-        public int Level { get; set; }
+        public Arus()
+        { }
 
-        public string HeroType { get; set; }
+        public string Name;
+
+        public int Level;
+
+        public string HeroType;
     }
 }

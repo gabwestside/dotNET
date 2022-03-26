@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\bin\Debug\net5.0\WestsideRPGWithVSCode.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\bin\Debug\net5.0\WestsideRPGWithVSCode.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\bin\Debug\net5.0\WestsideRPGWithVSCode.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\bin\Debug\net5.0\WestsideRPGWithVSCode.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\bin\Debug\net5.0\WestsideRPGWithVSCode.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\bin\Debug\net5.0\ref\WestsideRPGWithVSCode.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\bin\Debug\net5.0\WestsideRPGWithVSCode.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\WestsideRPGWithVSCode.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\WestsideRPGWithVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\WestsideRPGWithVSCode.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\WestsideRPGWithVSCode.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\WestsideRPGWithVSCode.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\WestsideRPGWithVSCode.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\ref\WestsideRPGWithVSCode.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\WestsideRPGWithVSCode.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\WestsideRPGWithVSCode\obj\Debug\net5.0\WestsideRPGWithVSCode.genruntimeconfig.cache

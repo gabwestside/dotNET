@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WestsideRPGWithVSCode/1.0.0": {
+        "runtime": {
+          "WestsideRPGWithVSCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WestsideRPGWithVSCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
