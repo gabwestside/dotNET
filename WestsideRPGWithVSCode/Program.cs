@@ -27,7 +27,7 @@ namespace WestsideRPGWithVSCode
 
             Console.WriteLine($"");
 
-            Console.WriteLine($"Name: {hero.Name} \nLevel: {hero.Level} \nHero Type: {hero.HeroType}");
+            Console.WriteLine($"{hero}");
         }
     }
 }
