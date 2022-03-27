@@ -7,28 +7,30 @@ namespace WestsideRPGWithVSCode
     {
         static void Main(string[] args)
         {
-            Hero hero = new Hero();
-            Wizard wizard = new Wizard("Nemesis", 10, "Wizard");
-
+            Knight knight = new Knight();
+            Wizard wizard = new Wizard();
+            Ranger ranger = new Ranger();
+            Rogue rogue = new Rogue();
+            
             Console.WriteLine($"Hero's infos");
             Console.Write($"Name: ");
 
             string name = Console.ReadLine();
-            hero.Name = name;
+            knight.Name = name;
 
             Console.Write($"Level: ");
 
             int level = int.Parse(Console.ReadLine());
-            hero.Level = level;
+            knight.Level = level;
 
             Console.Write($"Type: ");
 
             string heroType = Console.ReadLine();
-            hero.HeroType = heroType;
+            knight.HeroType = heroType;
 
             Console.WriteLine($"");
 
-            Console.WriteLine($"{hero.Attack()}");
+            Console.WriteLine($"{knight.Attack()}");
 
             Console.WriteLine($"");
 

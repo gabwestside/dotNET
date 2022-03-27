@@ -1,7 +1,11 @@
 namespace WestsideRPGWithVSCode.src.Entities
 {
-    public class Hero
+    public abstract class Hero
     {
+        public string Name { get; set; }
+        public int Level { get; set; }
+        public string HeroType { get; set; }
+
         public Hero(string Name, int Level, string HeroType)
         {
             this.Name = Name;
@@ -10,13 +14,8 @@ namespace WestsideRPGWithVSCode.src.Entities
         }
 
         public Hero()
-        { }
-
-        public string Name;
-
-        public int Level;
-
-        public string HeroType;
+        {
+        }
 
         public override string ToString()
         {
@@ -29,7 +28,7 @@ namespace WestsideRPGWithVSCode.src.Entities
 
         public virtual string Attack()
         {
-            return this.Name + " strikes with your sword.";
+            return this.Name + " strikes.";
         }
     }
 }
