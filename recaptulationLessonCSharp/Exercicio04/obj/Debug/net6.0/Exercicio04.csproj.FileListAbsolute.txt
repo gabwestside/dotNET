@@ -3,3 +3,13 @@ C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulati
 C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.AssemblyInfoInputs.cache
 C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.AssemblyInfo.cs
 C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\bin\Debug\net6.0\Exercicio04.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\bin\Debug\net6.0\Exercicio04.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\bin\Debug\net6.0\Exercicio04.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\bin\Debug\net6.0\Exercicio04.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\bin\Debug\net6.0\ref\Exercicio04.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\bin\Debug\net6.0\Exercicio04.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\ref\Exercicio04.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\Exercicio04\obj\Debug\net6.0\Exercicio04.genruntimeconfig.cache

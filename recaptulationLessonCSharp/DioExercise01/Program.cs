@@ -7,7 +7,7 @@ namespace DioExercise01
         static void Main(string[] args)
         {
             int quilometros = Int32.Parse(Console.ReadLine());
-            int minutos =  1       ; // Digite aqui o calculo dos minutos
+            int minutos = (quilometros * 60) / 30;
             Console.WriteLine(minutos + " minutos");
         }
     }
