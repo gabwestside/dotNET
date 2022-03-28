@@ -6,11 +6,6 @@ namespace Exercicio05
     {
         static void Main(string[] args)
         {
-            Arus hero = new Arus();
-
-            hero.
-
-            Console.Write();
         }
     }
 }

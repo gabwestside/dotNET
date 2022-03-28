@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\recaptulationLessonCSharp\\recaptulationLessonCSharp.csproj",
-      "projectName": "recaptulationLessonCSharp",
-      "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\recaptulationLessonCSharp\\recaptulationLessonCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\recaptulationLessonCSharp\\DioExercise01\\DioExercise01.csproj",
+      "projectName": "DioExercise01",
+      "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\recaptulationLessonCSharp\\DioExercise01\\DioExercise01.csproj",
       "packagesPath": "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\recaptulationLessonCSharp\\obj\\",
+      "outputPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\recaptulationLessonCSharp\\DioExercise01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel.moura.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",
