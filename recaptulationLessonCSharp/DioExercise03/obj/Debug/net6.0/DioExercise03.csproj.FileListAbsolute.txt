@@ -1,0 +1,15 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\bin\Debug\net6.0\DioExercise03.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\bin\Debug\net6.0\DioExercise03.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\bin\Debug\net6.0\DioExercise03.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\bin\Debug\net6.0\DioExercise03.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\bin\Debug\net6.0\ref\DioExercise03.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\bin\Debug\net6.0\DioExercise03.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\DioExercise03.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\DioExercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\DioExercise03.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\DioExercise03.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\DioExercise03.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\DioExercise03.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\ref\DioExercise03.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\DioExercise03.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\DioExercise03\obj\Debug\net6.0\DioExercise03.genruntimeconfig.cache
