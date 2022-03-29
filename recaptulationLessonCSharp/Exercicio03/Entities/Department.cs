@@ -1,6 +1,6 @@
 namespace Exercicio03.Entities
 {
-  class Departament
+    public class Departament
     {
         public string Name { get; set; }
 
@@ -12,5 +12,5 @@ namespace Exercicio03.Entities
         {
             Name = name;
         }
-    }   
+    }
 }

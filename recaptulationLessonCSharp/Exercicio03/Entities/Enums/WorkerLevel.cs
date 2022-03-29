@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Exercicio03.Entities.Enums
 {
-    enum WorkerLevel : int
+    public enum WorkerLevel : int
     {
         Junior = 0,
         MidLevel = 1,

@@ -6,11 +6,27 @@ namespace Exercicio05
     {
         static void Main(string[] args)
         {
-            Arus hero = new Arus();
+            int limit = Int32.Parse(Console.ReadLine());
+            for (int i = 0; i < limit; i++)
+            {
+                string[] line = Console.ReadLine().Split(" ");
 
-            hero.
+                double X = double.Parse(line[0]);
+                double Y = double.Parse(line[1]);
 
-            Console.Write();
+                double Total = X / Y;
+
+                string msg = "divisao impossivel";
+
+                if (Y == 0)
+                {
+                    Console.WriteLine($"{msg}");
+                }
+                else
+                {
+                    Console.WriteLine($"{Total.ToString("F1")}");
+                }
+            }
         }
     }
 }

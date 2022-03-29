@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Exercicio04.Entities
 {
-     class HourContract
+    public class HourContract
     {
         public DateTime Date { get; set; }
         public double ValuePerHour { get; set; }
