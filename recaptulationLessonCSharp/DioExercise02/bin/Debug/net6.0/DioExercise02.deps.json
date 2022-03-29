@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DioExercise02/1.0.0": {
+        "runtime": {
+          "DioExercise02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DioExercise02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
