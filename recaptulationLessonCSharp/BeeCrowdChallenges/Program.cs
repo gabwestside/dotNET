@@ -5,7 +5,7 @@ namespace BeeCrowdChallenges
 {
     public class Program
     {
-        public static async void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             // Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, 
@@ -88,7 +88,7 @@ namespace BeeCrowdChallenges
 
             Console.WriteLine($"{hours}:{minutes}:{seconds}");
 
-            // ------------------------------------------------------------------------------------ /
+            // ------------------------------------------------------------------------------------ //
         }
     }
 }
