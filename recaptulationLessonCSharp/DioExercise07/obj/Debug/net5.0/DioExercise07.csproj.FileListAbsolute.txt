@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\bin\Debug\net5.0\DioExercise07.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\bin\Debug\net5.0\DioExercise07.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\bin\Debug\net5.0\DioExercise07.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\bin\Debug\net5.0\DioExercise07.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\bin\Debug\net5.0\DioExercise07.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\bin\Debug\net5.0\ref\DioExercise07.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\bin\Debug\net5.0\DioExercise07.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\DioExercise07.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\DioExercise07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\DioExercise07.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\DioExercise07.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\DioExercise07.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\DioExercise07.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\ref\DioExercise07.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\DioExercise07.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\DioExercise07\obj\Debug\net5.0\DioExercise07.genruntimeconfig.cache
