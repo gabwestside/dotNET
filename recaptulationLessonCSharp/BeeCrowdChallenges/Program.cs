@@ -95,24 +95,46 @@ namespace BeeCrowdChallenges
             // vírgula, segundo a fórmula:
             // Distancia = raiz((x2 - x1)² + (y2 - y1)²)
 
-            double x1, x2, y1, y2, dist;
+            // double x1, x2, y1, y2, dist;
 
-            string[] split1st = Console.ReadLine().Split(' ');   
+            // string[] split1st = Console.ReadLine().Split(' ');   
 
-            string[] split2nd = Console.ReadLine().Split(' ');            
+            // string[] split2nd = Console.ReadLine().Split(' ');            
 
-            x1 = double.Parse(split1st[0], CultureInfo.InvariantCulture);
+            // x1 = double.Parse(split1st[0], CultureInfo.InvariantCulture);
 
-            x2 = double.Parse(split2nd[0], CultureInfo.InvariantCulture);
+            // x2 = double.Parse(split2nd[0], CultureInfo.InvariantCulture);
 
-            y1 = double.Parse(split1st[1], CultureInfo.InvariantCulture);
+            // y1 = double.Parse(split1st[1], CultureInfo.InvariantCulture);
 
-            y2 = double.Parse(split2nd[1], CultureInfo.InvariantCulture);
+            // y2 = double.Parse(split2nd[1], CultureInfo.InvariantCulture);
 
-            dist = Math.Sqrt(((x2 - x1) * (x2 - x1)) + ((y2 - y1) * (y2 - y1)));
+            // dist = Math.Sqrt(((x2 - x1) * (x2 - x1)) + ((y2 - y1) * (y2 - y1)));
 
-            Console.WriteLine($"{dist.ToString("F4", CultureInfo.InvariantCulture)}");
+            // Console.WriteLine($"{dist.ToString("F4", CultureInfo.InvariantCulture)}");
 
+            // ------------------------------------------------------------------------------------ //
+
+            // Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos em uma 
+            // viagem, ao utilizar um automóvel que faz 12 KM/L. Para isso, ele gostaria que você o 
+            // auxiliasse através de um simples programa. Para efetuar o cálculo, deve-se fornecer o 
+            // tempo gasto na viagem (em horas) e a velocidade média durante a mesma (em km/h). Assim, 
+            // pode-se obter distância percorrida e, em seguida, calcular quantos litros seriam necessários. 
+            // Mostre o valor com 3 casas decimais após o ponto.
+
+            int travelTime, avgSpeed, gasNeeded = (12 / 1);
+            double dist, qtdLitres;
+
+            travelTime = int.Parse(Console.ReadLine());
+
+            avgSpeed = int.Parse(Console.ReadLine());
+
+            dist = travelTime * avgSpeed;
+
+            qtdLitres = dist / gasNeeded;
+
+            Console.WriteLine($"{qtdLitres.ToString("F3", CultureInfo.InvariantCulture)}");
+            
             // ------------------------------------------------------------------------------------ //
         }
     }
