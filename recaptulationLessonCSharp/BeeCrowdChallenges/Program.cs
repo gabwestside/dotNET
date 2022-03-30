@@ -74,19 +74,44 @@ namespace BeeCrowdChallenges
             // Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma 
             // fábrica, e informe-o expresso no formato horas:minutos:segundos.
 
-            int seconds, minutes, hours, minute = 60, hour = 3600;
+            // int seconds, minutes, hours, minute = 60, hour = 3600;
 
-            seconds = int.Parse(Console.ReadLine());
+            // seconds = int.Parse(Console.ReadLine());
 
-            hours = seconds / hour;
+            // hours = seconds / hour;
 
-            seconds = seconds % hour;
+            // seconds = seconds % hour;
 
-            minutes = seconds / minute;
+            // minutes = seconds / minute;
 
-            seconds = seconds % minute;
+            // seconds = seconds % minute;
 
-            Console.WriteLine($"{hours}:{minutes}:{seconds}");
+            // Console.WriteLine($"{hours}:{minutes}:{seconds}");
+
+            // ------------------------------------------------------------------------------------ //
+
+            // Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, 
+            // p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais após a 
+            // vírgula, segundo a fórmula:
+            // Distancia = raiz((x2 - x1)² + (y2 - y1)²)
+
+            double x1, x2, y1, y2, dist;
+
+            string[] split1st = Console.ReadLine().Split(' ');   
+
+            string[] split2nd = Console.ReadLine().Split(' ');            
+
+            x1 = double.Parse(split1st[0], CultureInfo.InvariantCulture);
+
+            x2 = double.Parse(split2nd[0], CultureInfo.InvariantCulture);
+
+            y1 = double.Parse(split1st[1], CultureInfo.InvariantCulture);
+
+            y2 = double.Parse(split2nd[1], CultureInfo.InvariantCulture);
+
+            dist = Math.Sqrt(((x2 - x1) * (x2 - x1)) + ((y2 - y1) * (y2 - y1)));
+
+            Console.WriteLine($"{dist.ToString("F4", CultureInfo.InvariantCulture)}");
 
             // ------------------------------------------------------------------------------------ //
         }
