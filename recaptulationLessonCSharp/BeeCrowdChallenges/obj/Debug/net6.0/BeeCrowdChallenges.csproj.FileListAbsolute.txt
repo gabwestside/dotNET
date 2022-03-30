@@ -1,0 +1,15 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\bin\Debug\net6.0\BeeCrowdChallenges.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\bin\Debug\net6.0\BeeCrowdChallenges.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\bin\Debug\net6.0\BeeCrowdChallenges.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\bin\Debug\net6.0\BeeCrowdChallenges.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\bin\Debug\net6.0\ref\BeeCrowdChallenges.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\bin\Debug\net6.0\BeeCrowdChallenges.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\BeeCrowdChallenges.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\BeeCrowdChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\BeeCrowdChallenges.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\BeeCrowdChallenges.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\BeeCrowdChallenges.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\BeeCrowdChallenges.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\ref\BeeCrowdChallenges.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\BeeCrowdChallenges.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallenges\obj\Debug\net6.0\BeeCrowdChallenges.genruntimeconfig.cache
