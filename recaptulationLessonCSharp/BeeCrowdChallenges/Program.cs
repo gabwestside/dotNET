@@ -32,8 +32,18 @@ namespace BeeCrowdChallenges
             // efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão 
             // sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas 
             // decimais.
+            
+            string name;
+            double salary, totalSales, total, discount = 0.15;
 
+            name = Console.ReadLine();
+            salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            totalSales = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            total = salary + (totalSales * discount);
+
+            Console.WriteLine($"TOTAL = R$ {total.ToString("F2", CultureInfo.InvariantCulture)}");
+            
             // ------------------------------------------------------------------------------------ //
         }
     }
