@@ -136,6 +136,32 @@ namespace BeeCrowdChallenges
             // Console.WriteLine($"{qtdLitres.ToString("F3", CultureInfo.InvariantCulture)}");
             
             // ------------------------------------------------------------------------------------ //
+
+            // Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida 
+            // (em Km) e o total de combustível gasto (em litros).
+            
+            // int totalDist;
+
+            // double totalGas, kmPerGas;
+
+            // totalDist = int.Parse(Console.ReadLine());
+
+            // totalGas = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            // kmPerGas = totalDist / totalGas;
+
+            // Console.WriteLine($"{kmPerGas.ToString("F3", CultureInfo.InvariantCulture)} km/l");
+
+            // ------------------------------------------------------------------------------------ //
+
+            // int dist, minutes;
+
+            // dist = int.Parse(Console.ReadLine());
+
+            // minutes = (dist * 60) / 30;
+
+            // Console.WriteLine($"{minutes} minutos");
+            
         }
     }
 }
