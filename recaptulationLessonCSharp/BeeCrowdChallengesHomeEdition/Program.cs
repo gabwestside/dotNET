@@ -17,36 +17,42 @@ namespace BeeCrowdChallengesHomeEdition
 
             // ------------------------------------------------------------------------------------ //
 
-            double sideA, sideB, sideC, triangleArea, circleArea, trapezeArea, squareArea, rectangleArea, pi = 3.14159;
+            // double sideA, sideB, sideC, triangleArea, circleArea, trapezeArea, squareArea, rectangleArea, pi = 3.14159;
 
-            string[] vect = Console.ReadLine().Split(' ');
+            // string[] vect = Console.ReadLine().Split(' ');
 
-            sideA = double.Parse(vect[0], CultureInfo.InvariantCulture);
+            // sideA = double.Parse(vect[0], CultureInfo.InvariantCulture);
 
-            sideB = double.Parse(vect[1], CultureInfo.InvariantCulture);
+            // sideB = double.Parse(vect[1], CultureInfo.InvariantCulture);
 
-            sideC = double.Parse(vect[2], CultureInfo.InvariantCulture);
+            // sideC = double.Parse(vect[2], CultureInfo.InvariantCulture);
 
-            triangleArea = (sideA * sideC) / 2;
+            // triangleArea = (sideA * sideC) / 2;
 
-            circleArea = pi * Math.Pow(sideC, 2);
+            // circleArea = pi * Math.Pow(sideC, 2);
 
-            trapezeArea = ((sideA + sideB) * sideC) / 2;
+            // trapezeArea = ((sideA + sideB) * sideC) / 2;
 
-            squareArea = Math.Pow(sideB, 2);
+            // squareArea = Math.Pow(sideB, 2);
 
-            rectangleArea = sideA * sideB;
+            // rectangleArea = sideA * sideB;
 
-            Console.WriteLine($"TRIANGULO: {triangleArea.ToString("F3", CultureInfo.InvariantCulture)}");
+            // Console.WriteLine($"TRIANGULO: {triangleArea.ToString("F3", CultureInfo.InvariantCulture)}");
 
-            Console.WriteLine($"CIRCULO: {circleArea.ToString("F3", CultureInfo.InvariantCulture)}");
+            // Console.WriteLine($"CIRCULO: {circleArea.ToString("F3", CultureInfo.InvariantCulture)}");
 
-            Console.WriteLine($"TRAPEZIO: {trapezeArea.ToString("F3", CultureInfo.InvariantCulture)}");
+            // Console.WriteLine($"TRAPEZIO: {trapezeArea.ToString("F3", CultureInfo.InvariantCulture)}");
 
-            Console.WriteLine($"QUADRADO: {squareArea.ToString("F3", CultureInfo.InvariantCulture)}");
+            // Console.WriteLine($"QUADRADO: {squareArea.ToString("F3", CultureInfo.InvariantCulture)}");
             
-            Console.WriteLine($"RETANGULO: {rectangleArea.ToString("F3", CultureInfo.InvariantCulture)}");
+            // Console.WriteLine($"RETANGULO: {rectangleArea.ToString("F3", CultureInfo.InvariantCulture)}");
+
+            // ------------------------------------------------------------------------------------ //
             
+            string[] vect1st = Console.ReadLine().Split(' ');
+            string[] vect2nd = Console.ReadLine().Split(' ');
+
+            int value1st = int.Parse(vect1st[0]);
         }
     }
 }
