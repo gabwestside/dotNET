@@ -1,0 +1,15 @@
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\bin\Debug\net6.0\TypesAndReferences.exe
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\bin\Debug\net6.0\TypesAndReferences.deps.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\bin\Debug\net6.0\TypesAndReferences.runtimeconfig.json
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\bin\Debug\net6.0\TypesAndReferences.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\bin\Debug\net6.0\ref\TypesAndReferences.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\bin\Debug\net6.0\TypesAndReferences.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\TypesAndReferences.csproj.AssemblyReference.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\TypesAndReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\TypesAndReferences.AssemblyInfoInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\TypesAndReferences.AssemblyInfo.cs
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\TypesAndReferences.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\TypesAndReferences.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\ref\TypesAndReferences.dll
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\TypesAndReferences.pdb
+C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\recaptulationLessonCSharp\TypesAndReferences\obj\Debug\net6.0\TypesAndReferences.genruntimeconfig.cache
