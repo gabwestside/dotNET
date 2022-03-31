@@ -161,7 +161,52 @@ namespace BeeCrowdChallenges
             // minutes = (dist * 60) / 30;
 
             // Console.WriteLine($"{minutes} minutos");
+
+            // ------------------------------------------------------------------------------------ //
+
+            int initialValue, moneyValue, note100, note50, note20, note10, note5, note2, note1;
+
+            initialValue = int.Parse(Console.ReadLine());
+
+            moneyValue = initialValue;
+
+            note100 = moneyValue / 100;           
+
+            moneyValue = moneyValue % 100;
+
+            note50 = moneyValue / 50;           
+
+            moneyValue = moneyValue % 50;
             
+            note20 = moneyValue / 20;           
+
+            moneyValue = moneyValue % 20;
+
+            note10 = moneyValue / 10;           
+
+            moneyValue = moneyValue % 10;
+
+            note5 = moneyValue / 5;           
+
+            moneyValue = moneyValue % 5;
+
+            note2 = moneyValue / 2;           
+
+            moneyValue = moneyValue % 2;
+
+            note1 = moneyValue / 1;           
+
+            moneyValue = moneyValue % 1;
+
+            Console.WriteLine($"{initialValue}");
+            Console.WriteLine($"{note100} notas (s) de R$ 100,oo");
+            Console.WriteLine($"{note50} notas (s) de R$ 50,oo");
+            Console.WriteLine($"{note20} notas (s) de R$ 20,oo");
+            Console.WriteLine($"{note10} notas (s) de R$ 10,oo");
+            Console.WriteLine($"{note5} notas (s) de R$ 5,oo");
+            Console.WriteLine($"{note2} notas (s) de R$ 2,oo");
+            Console.WriteLine($"{note1} notas (s) de R$ 1,oo");
+
         }
     }
 }
