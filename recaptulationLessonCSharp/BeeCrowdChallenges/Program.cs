@@ -56,7 +56,7 @@ namespace BeeCrowdChallenges
             // portanto é necessário para chegar no resultado esperado.
 
             // int firstNumber, secondNumber, thirdNumber;
-            // double high1st2nd, isHigher;
+            // double higher1st, isHigher;
 
             // string[] split = Console.ReadLine().Split(' ');            
 
@@ -64,10 +64,10 @@ namespace BeeCrowdChallenges
             // secondNumber = int.Parse(split[1]);
             // thirdNumber = int.Parse(split[2]);
 
-            // high1st2nd = (firstNumber + secondNumber + Math.Abs(firstNumber - secondNumber)) / 2;
-            // isHigher = (high1st2nd + thirdNumber + Math.Abs(high1st2nd - thirdNumber)) / 2;
+            // higher1st = (firstNumber + secondNumber + Math.Abs(firstNumber - secondNumber)) / 2;
+            // isHigher = (higher1st + thirdNumber + Math.Abs(higher1st - thirdNumber)) / 2;
 
-            // Console.WriteLine($"{isHigher} eh maior");
+            // Console.WriteLine($"{isHigher} eh o maior");
 
             // ------------------------------------------------------------------------------------ //
 
@@ -122,18 +122,18 @@ namespace BeeCrowdChallenges
             // pode-se obter distância percorrida e, em seguida, calcular quantos litros seriam necessários. 
             // Mostre o valor com 3 casas decimais após o ponto.
 
-            int travelTime, avgSpeed, gasNeeded = (12 / 1);
-            double dist, qtdLitres;
+            // int travelTime, avgSpeed, gasNeeded = (12 / 1);
+            // double dist, qtdLitres;
 
-            travelTime = int.Parse(Console.ReadLine());
+            // travelTime = int.Parse(Console.ReadLine());
 
-            avgSpeed = int.Parse(Console.ReadLine());
+            // avgSpeed = int.Parse(Console.ReadLine());
 
-            dist = travelTime * avgSpeed;
+            // dist = travelTime * avgSpeed;
 
-            qtdLitres = dist / gasNeeded;
+            // qtdLitres = dist / gasNeeded;
 
-            Console.WriteLine($"{qtdLitres.ToString("F3", CultureInfo.InvariantCulture)}");
+            // Console.WriteLine($"{qtdLitres.ToString("F3", CultureInfo.InvariantCulture)}");
             
             // ------------------------------------------------------------------------------------ //
         }
