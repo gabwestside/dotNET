@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\bin\Debug\net5.0\BeeCrowdChallengesHomeEdition.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\bin\Debug\net5.0\BeeCrowdChallengesHomeEdition.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\bin\Debug\net5.0\BeeCrowdChallengesHomeEdition.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\bin\Debug\net5.0\BeeCrowdChallengesHomeEdition.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\bin\Debug\net5.0\BeeCrowdChallengesHomeEdition.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\bin\Debug\net5.0\ref\BeeCrowdChallengesHomeEdition.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\bin\Debug\net5.0\BeeCrowdChallengesHomeEdition.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\BeeCrowdChallengesHomeEdition.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\BeeCrowdChallengesHomeEdition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\BeeCrowdChallengesHomeEdition.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\BeeCrowdChallengesHomeEdition.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\BeeCrowdChallengesHomeEdition.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\BeeCrowdChallengesHomeEdition.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\ref\BeeCrowdChallengesHomeEdition.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\BeeCrowdChallengesHomeEdition.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\recaptulationLessonCSharp\BeeCrowdChallengesHomeEdition\obj\Debug\net5.0\BeeCrowdChallengesHomeEdition.genruntimeconfig.cache
