@@ -27,8 +27,13 @@ public class Program
         p1.Idade = 24;
         p1.Documento = "1234";
 
+        Pessoa p2 = p1.Clone();
+
         TrocarNome(p1, "Wstside");
 
-        WriteLine($"O novo nome é: {p1.Nome}");
+        WriteLine($@"
+        O nome de p1 é: {p1.Nome}
+        O nome de p2 é: {p2.Nome}
+        ");
     }
 }
