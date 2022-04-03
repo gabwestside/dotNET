@@ -49,10 +49,21 @@ namespace BeeCrowdChallengesHomeEdition
 
             // ------------------------------------------------------------------------------------ //
             
-            string[] vect1st = Console.ReadLine().Split(' ');
-            string[] vect2nd = Console.ReadLine().Split(' ');
+            // string[] vect1st = Console.ReadLine().Split(' ');
+            // string[] vect2nd = Console.ReadLine().Split(' ');
 
-            int value1st = int.Parse(vect1st[0]);
+            // int value1st = int.Parse(vect1st[0]);
+
+            Desenho A = new Desenho();
+
+            A.Id = 123;
+            A.Nome = "Draw";
+            A.Peso = 50;
+
+            
+
+            Console.WriteLine($"{A}");
+            
         }
     }
 }
