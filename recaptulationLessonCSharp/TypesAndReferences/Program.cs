@@ -47,6 +47,15 @@ public class Program
         ");
     }
 
+    static void Demo4()
+    {
+        string name = "Gabriel";
+
+        TrocarNome(name, "Westside");
+
+        WriteLine($"O novo nome é {name}");
+    }
+
     static int Adicionar20(int a)
     {
         return a + 20;
@@ -68,12 +77,20 @@ public class Program
         name = novoNome;
     }
 
+    static void MudarParaImpar(int[] pares)
+    {
+        for (int i = 0; i < pares.Length; i++)
+        {
+            pares[i] = pares[i] + 1;
+        }
+    }
+
     public static void Main()
     {
-        string name = "Gabriel";
+        int[] pares =  new int[]{0,2,4,6,8};
 
-        TrocarNome(name, "Westside");
+        MudarParaImpar(pares);
 
-        WriteLine($"O novo nome é {name}");
+        WriteLine($"Os impares {string.Join(", ", pares)}");
     }
 }
