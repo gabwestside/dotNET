@@ -28,23 +28,7 @@ public class Program
         ");
     }
 
-    static int Adicionar20(int a)
-    {
-        return a + 20;
-    }
-
-    static void TrocarNome(Pessoa p1, string novoNome)
-    {
-        p1.Nome = novoNome;
-    }
-
-    static StructPessoa TrocarNome(StructPessoa p1, string novoNome)
-    {
-        p1.Nome = novoNome;
-        return p1;
-    }
-
-    public static void Main()
+    static void Demo3()
     {
         StructPessoa p1 = new StructPessoa
         {
@@ -61,5 +45,35 @@ public class Program
             Nome do p1: {p1.Nome}
             Nome do p2: {p2.Nome}
         ");
+    }
+
+    static int Adicionar20(int a)
+    {
+        return a + 20;
+    }
+
+    static void TrocarNome(Pessoa p1, string novoNome)
+    {
+        p1.Nome = novoNome;
+    }
+
+    static StructPessoa TrocarNome(StructPessoa p1, string novoNome)
+    {
+        p1.Nome = novoNome;
+        return p1;
+    }
+
+    static void TrocarNome(string name, string novoNome)
+    {
+        name = novoNome;
+    }
+
+    public static void Main()
+    {
+        string name = "Gabriel";
+
+        TrocarNome(name, "Westside");
+
+        WriteLine($"O novo nome é {name}");
     }
 }
