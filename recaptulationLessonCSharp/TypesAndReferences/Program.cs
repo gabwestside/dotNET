@@ -56,6 +56,15 @@ public class Program
         WriteLine($"O novo nome é {name}");
     }
 
+    static void Demo5()
+    {
+        int[] pares =  new int[]{0,2,4,6,8};
+
+        MudarParaImpar(pares);
+
+        WriteLine($"Os impares {string.Join(", ", pares)}");;
+    }
+
     static int Adicionar20(int a)
     {
         return a + 20;
@@ -85,12 +94,30 @@ public class Program
         }
     }
 
+    static int EncontrarNumero(int[] numeros, int numero)
+    {
+        for (int i = 0; i < numeros.Length; i++)
+        {
+            if (numeros[i] == numero)
+                return i;
+        }
+
+        return -1;
+    }
+
     public static void Main()
     {
-        int[] pares =  new int[]{0,2,4,6,8};
+        int[] numeros = new int[] {1, 2, 3, 4, 5};
 
-        MudarParaImpar(pares);
+        WriteLine($"Digite o numero que gostaria de encontrar");
 
-        WriteLine($"Os impares {string.Join(", ", pares)}");
+        var numero = int.Parse(ReadLine());
+
+        var idxEncontrado = EncontrarNumero(numeros, numero);
+
+        if (idxEncontrado >= 0)
+            WriteLine($"O numero digitado está na posicão {idxEncontrado}");
+        else
+            WriteLine($"O numero não foi encontrado");
     }
 }
