@@ -4,7 +4,6 @@ C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\SimpleFactorial\bin\De
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\SimpleFactorial\bin\Debug\netcoreapp3.1\SimpleFactorial.runtimeconfig.dev.json
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\SimpleFactorial\bin\Debug\netcoreapp3.1\SimpleFactorial.dll
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\SimpleFactorial\bin\Debug\netcoreapp3.1\SimpleFactorial.pdb
-C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\SimpleFactorial\obj\Debug\netcoreapp3.1\SimpleFactorial.csproj.AssemblyReference.cache
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\SimpleFactorial\obj\Debug\netcoreapp3.1\SimpleFactorial.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\SimpleFactorial\obj\Debug\netcoreapp3.1\SimpleFactorial.AssemblyInfoInputs.cache
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\SimpleFactorial\obj\Debug\netcoreapp3.1\SimpleFactorial.AssemblyInfo.cs

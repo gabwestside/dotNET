@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXfZHasEK0gFpGUGluemR1ALlFoH8qiLRPDS72yPn8WJS0H+yT/Wo+BfYNVz0h7Wv1U2Jj/sSHrqh7RBlb23Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\SerializeXML\\SerializeXML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

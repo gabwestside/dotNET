@@ -11,3 +11,16 @@ C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCs
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.dll
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.pdb
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\bin\Debug\netcoreapp3.1\FormatingDate.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\FormatingDate\obj\Debug\netcoreapp3.1\FormatingDate.genruntimeconfig.cache

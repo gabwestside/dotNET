@@ -1,14 +1,10 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "tisbNxp6VHDKiVuinpkHW2sBGFsmwxvwYHpfuISEcsX2KwM5rPnUY/CGltVAH/vsPQ/RZE0ZVAiCXQdPcPQubQ==",
-=======
-  "dgSpecHash": "2vi4rIwPIKzMRyFw1likyxxjdqKJueOvpfF62IGFYKTa0rJDxNJH1pigLCrYaAmbj463fT2ykW2Ix8LnN5u2fQ==",
->>>>>>> 906fdef7982d4f552ef073cd08930fbd946b986b
+  "dgSpecHash": "jIWSIfp7Wl02mfUq4+nOHrf6ggHloMZvVwuxMRQeB/6WUJJnh1XbB9e1uJMn8kLIqSJfPxmM6wvLmlUv6uSTHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\NullableExample\\NullableExample.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\NullableExample\\NullableExample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

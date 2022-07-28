@@ -26,3 +26,16 @@ C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCs
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.dll
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.pdb
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\bin\Debug\netcoreapp3.1\VetorExample.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\bin\Debug\netcoreapp3.1\VetorExample.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\bin\Debug\netcoreapp3.1\VetorExample.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\bin\Debug\netcoreapp3.1\VetorExample.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\bin\Debug\netcoreapp3.1\VetorExample.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\bin\Debug\netcoreapp3.1\VetorExample.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VetorExample\obj\Debug\netcoreapp3.1\VetorExample.genruntimeconfig.cache

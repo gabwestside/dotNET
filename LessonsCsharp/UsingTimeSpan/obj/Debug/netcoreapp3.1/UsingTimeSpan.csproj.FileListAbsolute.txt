@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\bin\Debug\netcoreapp3.1\UsingTimeSpan.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\bin\Debug\netcoreapp3.1\UsingTimeSpan.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\bin\Debug\netcoreapp3.1\UsingTimeSpan.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\bin\Debug\netcoreapp3.1\UsingTimeSpan.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\bin\Debug\netcoreapp3.1\UsingTimeSpan.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\bin\Debug\netcoreapp3.1\UsingTimeSpan.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\obj\Debug\netcoreapp3.1\UsingTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\obj\Debug\netcoreapp3.1\UsingTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\obj\Debug\netcoreapp3.1\UsingTimeSpan.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\obj\Debug\netcoreapp3.1\UsingTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\obj\Debug\netcoreapp3.1\UsingTimeSpan.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\obj\Debug\netcoreapp3.1\UsingTimeSpan.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingTimeSpan\obj\Debug\netcoreapp3.1\UsingTimeSpan.genruntimeconfig.cache

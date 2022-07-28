@@ -11,3 +11,16 @@ C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsha
 C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.dll
 C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.pdb
 C:\Users\gabriel.moura.FITBANK\Documents\CodingDocs\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\bin\Debug\netcoreapp3.1\DioExercise05.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\bin\Debug\netcoreapp3.1\DioExercise05.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\bin\Debug\netcoreapp3.1\DioExercise05.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\bin\Debug\netcoreapp3.1\DioExercise05.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\bin\Debug\netcoreapp3.1\DioExercise05.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\bin\Debug\netcoreapp3.1\DioExercise05.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\DioExercise05\obj\Debug\netcoreapp3.1\DioExercise05.genruntimeconfig.cache

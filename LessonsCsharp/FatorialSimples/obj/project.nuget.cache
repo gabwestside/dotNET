@@ -1,14 +1,10 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "V2EkQpKrSlPy2fifnY7h8XsANxme0RRGXEBEGPEEQu36pSCTAAftpN3/af37Ur0CxryWD4gkEkUyKCLqYIysTQ==",
-=======
-  "dgSpecHash": "y9CkGbX3O6avBL/JZMxBpzeNITtuUGeiOQf7iU6yUohkPL7nONGB/UsNbe7dpy/HgA0XCCkuh/ACkCAV8ErhrA==",
->>>>>>> 906fdef7982d4f552ef073cd08930fbd946b986b
+  "dgSpecHash": "IUbcut7OSG6BLkCiQ2wgJSML7SqloRI0w4rRaVA2eizKHIpQ7CwjV11AmzJSRamuqdF08JpbYS5wUPtKnqsTGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\FatorialSimples\\FatorialSimples.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\FatorialSimples\\FatorialSimples.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

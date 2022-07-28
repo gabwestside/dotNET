@@ -26,3 +26,16 @@ C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCs
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.dll
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.pdb
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\bin\Debug\netcoreapp3.1\AddProductClass.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\bin\Debug\netcoreapp3.1\AddProductClass.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\bin\Debug\netcoreapp3.1\AddProductClass.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\bin\Debug\netcoreapp3.1\AddProductClass.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\bin\Debug\netcoreapp3.1\AddProductClass.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\bin\Debug\netcoreapp3.1\AddProductClass.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\AddProductClass\obj\Debug\netcoreapp3.1\AddProductClass.genruntimeconfig.cache

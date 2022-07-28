@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bDAN4zVSyx4Pu/ika2IWq9uX7RmPTcFj6VV0unrf60v/++Go4f/PE6RjnH+z//izs0b8cMaSFyshsdo6WNS3IA==",
+  "dgSpecHash": "jM8tRn2f5AQlvqllBKlKllBlmoN5im1LWz2Und0U2V0pVtr/dsdGE6ndEmTxfFdvgqeKOXa1eEPfrEGO3XUhcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\CodingDocs\\GitClones\\dotNET\\LessonsCsharp\\DioExercise08\\DioExercise08.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\LessonsCsharp\\DioExercise08\\DioExercise08.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

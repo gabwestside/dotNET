@@ -63,7 +63,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DioExercise07", "DioExercis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DioExercise08", "DioExercise08\DioExercise08.csproj", "{1332557E-E07C-4D6A-B073-1836216E0411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioExercise09", "DioExercise09\DioExercise09.csproj", "{E3BB20EC-CD66-4BD8-935C-8B6ED30DA3EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DioExercise09", "DioExercise09\DioExercise09.csproj", "{E3BB20EC-CD66-4BD8-935C-8B6ED30DA3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeXML", "SerializeXML\SerializeXML.csproj", "{7EAB383B-338C-4BE3-BA37-E797A1CAD340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{D1F87C5B-FCBD-466C-80A4-1112402A2873}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,14 @@ Global
 		{E3BB20EC-CD66-4BD8-935C-8B6ED30DA3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3BB20EC-CD66-4BD8-935C-8B6ED30DA3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3BB20EC-CD66-4BD8-935C-8B6ED30DA3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAB383B-338C-4BE3-BA37-E797A1CAD340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAB383B-338C-4BE3-BA37-E797A1CAD340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAB383B-338C-4BE3-BA37-E797A1CAD340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAB383B-338C-4BE3-BA37-E797A1CAD340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F87C5B-FCBD-466C-80A4-1112402A2873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F87C5B-FCBD-466C-80A4-1112402A2873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F87C5B-FCBD-466C-80A4-1112402A2873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F87C5B-FCBD-466C-80A4-1112402A2873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

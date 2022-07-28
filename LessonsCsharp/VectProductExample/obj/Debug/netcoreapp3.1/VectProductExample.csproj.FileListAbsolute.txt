@@ -25,3 +25,16 @@ C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCs
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.dll
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.pdb
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\bin\Debug\netcoreapp3.1\VectProductExample.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\bin\Debug\netcoreapp3.1\VectProductExample.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\bin\Debug\netcoreapp3.1\VectProductExample.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\bin\Debug\netcoreapp3.1\VectProductExample.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\bin\Debug\netcoreapp3.1\VectProductExample.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\bin\Debug\netcoreapp3.1\VectProductExample.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\VectProductExample\obj\Debug\netcoreapp3.1\VectProductExample.genruntimeconfig.cache

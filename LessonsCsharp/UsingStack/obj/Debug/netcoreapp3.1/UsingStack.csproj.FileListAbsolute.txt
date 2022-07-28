@@ -11,4 +11,3 @@ C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\n
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.dll
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.pdb
 C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.genruntimeconfig.cache
-C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\UsingStack\obj\Debug\netcoreapp3.1\UsingStack.csproj.AssemblyReference.cache

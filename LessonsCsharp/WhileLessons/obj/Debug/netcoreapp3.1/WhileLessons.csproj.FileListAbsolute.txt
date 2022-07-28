@@ -25,3 +25,16 @@ C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCs
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.dll
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.pdb
 C:\Users\gabriel.moura.FITBANK\Documents\Coding-Stuff\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\bin\Debug\netcoreapp3.1\WhileLessons.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\bin\Debug\netcoreapp3.1\WhileLessons.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\bin\Debug\netcoreapp3.1\WhileLessons.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\bin\Debug\netcoreapp3.1\WhileLessons.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\bin\Debug\netcoreapp3.1\WhileLessons.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\bin\Debug\netcoreapp3.1\WhileLessons.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\LessonsCsharp\WhileLessons\obj\Debug\netcoreapp3.1\WhileLessons.genruntimeconfig.cache
