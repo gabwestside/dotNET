@@ -1,0 +1,17 @@
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.exe
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.deps.json
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.dll
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\bin\Debug\netcoreapp3.1\SerializeXML.pdb
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.dll
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.pdb
+C:\Users\Gabriel\source\repos\Csharp advanced\SerializeXML\obj\Debug\netcoreapp3.1\SerializeXML.genruntimeconfig.cache

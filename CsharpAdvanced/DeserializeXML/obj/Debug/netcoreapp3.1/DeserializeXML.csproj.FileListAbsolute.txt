@@ -1,0 +1,17 @@
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\bin\Debug\netcoreapp3.1\DeserializeXML.exe
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\bin\Debug\netcoreapp3.1\DeserializeXML.deps.json
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\bin\Debug\netcoreapp3.1\DeserializeXML.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\bin\Debug\netcoreapp3.1\DeserializeXML.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\bin\Debug\netcoreapp3.1\DeserializeXML.dll
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\bin\Debug\netcoreapp3.1\DeserializeXML.pdb
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.dll
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.pdb
+C:\Users\Gabriel\source\repos\Csharp advanced\DeserializeXML\obj\Debug\netcoreapp3.1\DeserializeXML.genruntimeconfig.cache
