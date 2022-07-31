@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\bin\Debug\netcoreapp3.1\ExtensionsMethods.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\bin\Debug\netcoreapp3.1\ExtensionsMethods.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\bin\Debug\netcoreapp3.1\ExtensionsMethods.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\bin\Debug\netcoreapp3.1\ExtensionsMethods.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\bin\Debug\netcoreapp3.1\ExtensionsMethods.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\bin\Debug\netcoreapp3.1\ExtensionsMethods.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\obj\Debug\netcoreapp3.1\ExtensionsMethods.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\obj\Debug\netcoreapp3.1\ExtensionsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\obj\Debug\netcoreapp3.1\ExtensionsMethods.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\obj\Debug\netcoreapp3.1\ExtensionsMethods.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\obj\Debug\netcoreapp3.1\ExtensionsMethods.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\obj\Debug\netcoreapp3.1\ExtensionsMethods.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\obj\Debug\netcoreapp3.1\ExtensionsMethods.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\ExtensionsMethods\obj\Debug\netcoreapp3.1\ExtensionsMethods.genruntimeconfig.cache

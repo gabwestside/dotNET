@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0FIuCzbrelTyU3sMm8aBqq8WrvA1BEy7er57Ztlv2VCcDomrkpnb0fHq3DD1KuMwk4RO1c02rcxv8U/yUnWTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopics\\ExtensionsMethods\\ExtensionsMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
