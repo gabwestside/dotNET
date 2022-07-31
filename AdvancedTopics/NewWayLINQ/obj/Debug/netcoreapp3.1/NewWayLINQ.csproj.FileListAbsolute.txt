@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\bin\Debug\netcoreapp3.1\NewWayLINQ.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\bin\Debug\netcoreapp3.1\NewWayLINQ.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\bin\Debug\netcoreapp3.1\NewWayLINQ.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\bin\Debug\netcoreapp3.1\NewWayLINQ.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\bin\Debug\netcoreapp3.1\NewWayLINQ.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\bin\Debug\netcoreapp3.1\NewWayLINQ.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\obj\Debug\netcoreapp3.1\NewWayLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\obj\Debug\netcoreapp3.1\NewWayLINQ.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\obj\Debug\netcoreapp3.1\NewWayLINQ.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\obj\Debug\netcoreapp3.1\NewWayLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\obj\Debug\netcoreapp3.1\NewWayLINQ.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\obj\Debug\netcoreapp3.1\NewWayLINQ.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\obj\Debug\netcoreapp3.1\NewWayLINQ.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\NewWayLINQ\obj\Debug\netcoreapp3.1\NewWayLINQ.csproj.AssemblyReference.cache
