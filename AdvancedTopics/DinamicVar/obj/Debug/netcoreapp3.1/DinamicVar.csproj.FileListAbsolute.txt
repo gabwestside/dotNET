@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\bin\Debug\netcoreapp3.1\DinamicVar.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\bin\Debug\netcoreapp3.1\DinamicVar.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\bin\Debug\netcoreapp3.1\DinamicVar.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\bin\Debug\netcoreapp3.1\DinamicVar.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\bin\Debug\netcoreapp3.1\DinamicVar.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\bin\Debug\netcoreapp3.1\DinamicVar.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\obj\Debug\netcoreapp3.1\DinamicVar.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\obj\Debug\netcoreapp3.1\DinamicVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\obj\Debug\netcoreapp3.1\DinamicVar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\obj\Debug\netcoreapp3.1\DinamicVar.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\obj\Debug\netcoreapp3.1\DinamicVar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\obj\Debug\netcoreapp3.1\DinamicVar.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\obj\Debug\netcoreapp3.1\DinamicVar.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\DinamicVar\obj\Debug\netcoreapp3.1\DinamicVar.genruntimeconfig.cache
