@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\bin\Debug\netcoreapp3.1\LINQ with Join.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\bin\Debug\netcoreapp3.1\LINQ with Join.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\bin\Debug\netcoreapp3.1\LINQ with Join.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\bin\Debug\netcoreapp3.1\LINQ with Join.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\bin\Debug\netcoreapp3.1\LINQ with Join.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\bin\Debug\netcoreapp3.1\LINQ with Join.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\obj\Debug\netcoreapp3.1\LINQ with Join.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\obj\Debug\netcoreapp3.1\LINQ with Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\obj\Debug\netcoreapp3.1\LINQ with Join.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\obj\Debug\netcoreapp3.1\LINQ with Join.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\obj\Debug\netcoreapp3.1\LINQ with Join.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\obj\Debug\netcoreapp3.1\LINQ with Join.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\obj\Debug\netcoreapp3.1\LINQ with Join.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQ with Join\obj\Debug\netcoreapp3.1\LINQ with Join.genruntimeconfig.cache
