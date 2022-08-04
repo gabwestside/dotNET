@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\bin\Debug\netcoreapp3.1\LINQandObj.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\bin\Debug\netcoreapp3.1\LINQandObj.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\bin\Debug\netcoreapp3.1\LINQandObj.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\bin\Debug\netcoreapp3.1\LINQandObj.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\bin\Debug\netcoreapp3.1\LINQandObj.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\bin\Debug\netcoreapp3.1\LINQandObj.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\obj\Debug\netcoreapp3.1\LINQandObj.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\obj\Debug\netcoreapp3.1\LINQandObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\obj\Debug\netcoreapp3.1\LINQandObj.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\obj\Debug\netcoreapp3.1\LINQandObj.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\obj\Debug\netcoreapp3.1\LINQandObj.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\obj\Debug\netcoreapp3.1\LINQandObj.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\obj\Debug\netcoreapp3.1\LINQandObj.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopics\LINQandObj\obj\Debug\netcoreapp3.1\LINQandObj.genruntimeconfig.cache
