@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewWayLINQ", "NewWayLINQ\NewWayLINQ.csproj", "{AFB65F06-94CB-4141-88B7-E909BBFBAC9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQandObj", "LINQandObj\LINQandObj.csproj", "{827C1746-9B08-4BEE-BBD7-4809179D19BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQandObj", "LINQandObj\LINQandObj.csproj", "{827C1746-9B08-4BEE-BBD7-4809179D19BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ with Join", "LINQ with Join\LINQ with Join.csproj", "{78315FBE-D9B9-4072-BB30-4E00A5815EA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ with Join", "LINQ with Join\LINQ with Join.csproj", "{78315FBE-D9B9-4072-BB30-4E00A5815EA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ with Group", "LINQ with Group\LINQ with Group.csproj", "{72D092F5-033B-4017-B397-FBD88438CA80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ with Group", "LINQ with Group\LINQ with Group.csproj", "{72D092F5-033B-4017-B397-FBD88438CA80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{58335EDC-8ACD-45B6-9A17-30F98BE2DA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{58335EDC-8ACD-45B6-9A17-30F98BE2DA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates2", "Delegates2\Delegates2.csproj", "{765AD88A-3C56-4C96-8190-384C741D265B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{58335EDC-8ACD-45B6-9A17-30F98BE2DA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58335EDC-8ACD-45B6-9A17-30F98BE2DA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58335EDC-8ACD-45B6-9A17-30F98BE2DA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765AD88A-3C56-4C96-8190-384C741D265B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765AD88A-3C56-4C96-8190-384C741D265B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765AD88A-3C56-4C96-8190-384C741D265B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765AD88A-3C56-4C96-8190-384C741D265B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZOqdkJbA2PPDvokh94TgSEPc1PtNzPS5s2dRBPOQjGDEA3VXRWKdcdpoiam4mLxbwXoNDdOqMk/U+Y/1axaZiQ==",
+  "dgSpecHash": "ZCxwvRDDW7DMOVmWxHMdCO6u7hqRJ8JCzbC2bx+B8Fry0xFEaOrZVz01qbQjak20i4oHTRskAxP9aCh/lci0eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopics\\DinamicVar\\DinamicVar.csproj",
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\GitClones\\dotNET\\AdvancedTopics\\DinamicVar\\DinamicVar.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yA2BlFEVtJ3tQpj7wBv+5FYuxVdP7F8rSuwD7NYK8zgovQqviKObDWQlr2TC0m3WvBWu2NJr7ZZkdJhlyWW0JA==",
+  "dgSpecHash": "7ffBY2+GYQRe2EoQKW4ZdMIx/OZaI/daNFsKdk9+0Xu+zscqIY1squ3K+2mjkXxPzh96ovtGQSIgCvCLrpd99A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopics\\NewWayLINQ\\NewWayLINQ.csproj",
+  "projectFilePath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\GitClones\\dotNET\\AdvancedTopics\\NewWayLINQ\\NewWayLINQ.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+    "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
   "logs": []
 }
