@@ -8,22 +8,22 @@ namespace Delegates2.Lib
     {
         public void Colorize(Photo photo)
         {
-            Console.WriteLine("Filter > Colorize");
+            Console.WriteLine($"Filter > Colorize: {photo.Name}");
         }
 
         public void GenerateThumb(Photo photo)
         {
-            Console.WriteLine("Filter > GenerateThumb");
+            Console.WriteLine($"Filter > GenerateThumb: {photo.Name}");
         }
 
         public void BlackAndWhite(Photo photo)
         {
-            Console.WriteLine("Filter > BlackAndWhite");
+            Console.WriteLine($"Filter > BlackAndWhite: {photo.Name}");
         }
 
         public void Resize(Photo photo)
         {
-            Console.WriteLine("Filter > Resize");
+            Console.WriteLine($"Filter > Resize: {photo.Name}");
         }
     }
 }
