@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\bin\Debug\netcoreapp3.1\Events_01.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\bin\Debug\netcoreapp3.1\Events_01.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\bin\Debug\netcoreapp3.1\Events_01.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\bin\Debug\netcoreapp3.1\Events_01.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\bin\Debug\netcoreapp3.1\Events_01.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\bin\Debug\netcoreapp3.1\Events_01.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.Form1.resources
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\Events_01\obj\Debug\netcoreapp3.1\Events_01.genruntimeconfig.cache

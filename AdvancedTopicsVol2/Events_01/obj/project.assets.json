@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.moura\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Gabriel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.moura\\Documents\\GitClones\\dotNET\\AdvancedTopicsVol2\\Events_01\\Events_01.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopicsVol2\\Events_01\\Events_01.csproj",
       "projectName": "Events_01",
-      "projectPath": "C:\\Users\\gabriel.moura\\Documents\\GitClones\\dotNET\\AdvancedTopicsVol2\\Events_01\\Events_01.csproj",
-      "packagesPath": "C:\\Users\\gabriel.moura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.moura\\Documents\\GitClones\\dotNET\\AdvancedTopicsVol2\\Events_01\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopicsVol2\\Events_01\\Events_01.csproj",
+      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopicsVol2\\Events_01\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gabriel.moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -60,6 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -68,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

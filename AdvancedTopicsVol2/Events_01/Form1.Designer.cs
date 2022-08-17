@@ -29,13 +29,34 @@ namespace Events_01
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnVideoEncode = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnVideoEncode
+            // 
+            this.btnVideoEncode.Location = new System.Drawing.Point(305, 324);
+            this.btnVideoEncode.Name = "btnVideoEncode";
+            this.btnVideoEncode.Size = new System.Drawing.Size(160, 42);
+            this.btnVideoEncode.TabIndex = 0;
+            this.btnVideoEncode.Text = "Video Encode";
+            this.btnVideoEncode.UseVisualStyleBackColor = true;
+            this.btnVideoEncode.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnVideoEncode);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnVideoEncode;
     }
 }
 

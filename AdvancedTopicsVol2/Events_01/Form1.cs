@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Events_01.Lib;
+using Events_01.Lib.Mensenger;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,7 +17,20 @@ namespace Events_01
         public Form1()
         {
             InitializeComponent();
+
+            btnVideoEncode.Click += button1_Click;
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Video video = new Video() { Name = "Video.mp4" };
+
+            VideoEncode vid = new VideoEncode();
+
+            vid.Encoded += new Mail().SendMesage;
+            vid.Encoded += new SMS().SendMesage;
+
+            vid.Encode(video);
+        }
     }
 }

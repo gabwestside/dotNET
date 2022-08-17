@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QsNaR/e/QZWyHO6YEVejLNOO4xVj5PW8Cj6yAjUE2LUxlJFX5/DDuyHRxgR+5uqg7Y6EKiy9ezaGR2dhNR9j3A==",
+  "dgSpecHash": "Q/RJyI5t1apsr0YXth7j21zzhp7FT5TgP0EZ0RYZ3E/ITwHBNwC67Lx7YPnSrMhLpMFZt7akIub0s+ibSBPuow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.moura\\Documents\\GitClones\\dotNET\\AdvancedTopicsVol2\\Events_01\\Events_01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopicsVol2\\Events_01\\Events_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.moura.FITBANK\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\LINQ with Group.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\LINQ with Group.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.moura.FITBANK\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\LINQ with Group.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\LINQ with Group.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\LINQ with Group.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\LINQ with Group.csproj",
         "projectName": "LINQ with Group",
-        "projectPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\LINQ with Group.csproj",
-        "packagesPath": "C:\\Users\\gabriel.moura.FITBANK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.moura.FITBANK\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\LINQ with Group.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\GitClones\\dotNET\\AdvancedTopics\\LINQ with Group\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabriel.moura.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.21, 3.1.21]"
+              "version": "[3.1.25, 3.1.25]"
             }
           ],
           "frameworkReferences": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
