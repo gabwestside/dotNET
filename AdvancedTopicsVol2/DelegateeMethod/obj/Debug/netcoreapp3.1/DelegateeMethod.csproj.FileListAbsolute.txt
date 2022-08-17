@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\bin\Debug\netcoreapp3.1\DelegateeMethod.exe
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\bin\Debug\netcoreapp3.1\DelegateeMethod.deps.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\bin\Debug\netcoreapp3.1\DelegateeMethod.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\bin\Debug\netcoreapp3.1\DelegateeMethod.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\bin\Debug\netcoreapp3.1\DelegateeMethod.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\bin\Debug\netcoreapp3.1\DelegateeMethod.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.Form1.resources
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.dll
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.pdb
+C:\Users\Gabriel\Documents\GitClones\dotNET\AdvancedTopicsVol2\DelegateeMethod\obj\Debug\netcoreapp3.1\DelegateeMethod.genruntimeconfig.cache

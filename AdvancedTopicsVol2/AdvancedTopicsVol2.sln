@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events_01", "Events_01\Events_01.csproj", "{90FC9531-80C3-446C-95BF-746068E24DF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events_01", "Events_01\Events_01.csproj", "{90FC9531-80C3-446C-95BF-746068E24DF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateeMethod", "DelegateeMethod\DelegateeMethod.csproj", "{E197298C-7126-43DE-B146-4444FE66CA0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{90FC9531-80C3-446C-95BF-746068E24DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90FC9531-80C3-446C-95BF-746068E24DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90FC9531-80C3-446C-95BF-746068E24DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E197298C-7126-43DE-B146-4444FE66CA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E197298C-7126-43DE-B146-4444FE66CA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E197298C-7126-43DE-B146-4444FE66CA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E197298C-7126-43DE-B146-4444FE66CA0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
